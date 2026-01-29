@@ -1,0 +1,521 @@
+﻿ID_CLIENTE_RAW,NOMBRE_COMPLETO_TXT,UBICACION_CIUDAD,EDAD_USUARIO
+1,Benjamín Pérez,Concepción,22.747458071860137
+2,Camila González,La Serena,35.6260798238904
+3,Sofía Muñoz,Santiago,31.713793933445153
+4,Ignacio Muñoz,Concepción,30.958016388312885
+5,Daniela Soto,Santiago,42.43642358578975
+6,Lucas González,Santiago,39.07850433431244
+7,Mateo Díaz,Valparaíso,38.79257444773143
+8,Daniela Pérez,Santiago,39.91794148794431
+9,Benjamín Díaz,Santiago,42.39361601602686
+10,Mateo Pérez,Antofagasta,18.0
+11,Mateo Soto,,30.626740972826465
+12,Sofía Rojas,Concepción,18.0
+13,Ana Soto,Antofagasta,35.43271912157355
+14,Benjamín Rojas,,34.94440433330786
+15,Ignacio Silva,Santiago,47.54638729747616
+16,Ana Díaz,Valparaíso,49.251612712653454
+17,Daniela Soto,Santiago,37.433300579028405
+18,Daniela Silva,Santiago,28.9956670712372
+19,Camila Soto,La Serena,40.82193335054885
+20,Lucas Soto,Valparaíso,28.66498835210824
+21,Sofía Díaz,Valparaíso,34.983288182679814
+22,Daniela González,Santiago,46.83363580352921
+23,Lucas Díaz,Santiago,28.306743848126917
+24,Camila Muñoz,Antofagasta,44.66814367091001
+25,Ana Silva,Santiago,43.12881642430763
+26,Ignacio Muñoz,Santiago,23.54249819443014
+27,Mateo Muñoz,Santiago,46.686729538608816
+28,Ignacio Muñoz,Valparaíso,43.38279614445806
+29,Lucas Pérez,Concepción,36.22311064847189
+30,Daniela Díaz,Valparaíso,
+31,Daniela Silva,Santiago,
+32,Sofía Rojas,Santiago,28.548049077163732
+33,Camila Muñoz,Antofagasta,41.51113355950352
+34,Mateo González,Concepción,
+35,Mateo González,Concepción,40.25014698343844
+36,Ana Rojas,Concepción,20.09893365345929
+37,Benjamín Silva,La Serena,32.551176986733815
+38,Sofía Díaz,Santiago,36.315773054888105
+39,Lucas Silva,Santiago,64.341561740707
+40,Lucas González,Valparaíso,18.47221213375559
+41,Ignacio González,Santiago,52.6641747978816
+42,Lucas Soto,Antofagasta,36.79810896784736
+43,Camila González,Valparaíso,39.93406301619156
+44,Ignacio González,La Serena,36.42017496065846
+45,Mateo Rojas,Antofagasta,40.336721818342795
+46,Camila Silva,Valparaíso,33.15577874765579
+47,Ignacio Pérez,Antofagasta,52.4486021774895
+48,Camila González,Concepción,29.52234626930333
+49,Ana Soto,Antofagasta,48.586814866150974
+50,Mateo Soto,Santiago,27.267594557443726
+51,Daniela Soto,Valparaíso,34.276977843184554
+52,Sofía Silva,Valparaíso,22.13644937251737
+53,Mateo Muñoz,Santiago,40.46028464417024
+54,Sofía Silva,Santiago,52.34151148311841
+55,Lucas Rojas,Antofagasta,34.07172584214975
+56,Mateo Soto,Concepción,32.637371615553086
+57,Camila Pérez,Santiago,21.624596443184878
+58,Sofía Soto,Santiago,32.2484881573723
+59,Benjamín Pérez,Santiago,
+60,Lucas Pérez,Santiago,24.045464159374074
+61,Ignacio Pérez,Antofagasta,37.721432553309626
+62,Mateo Soto,Valparaíso,50.82815837289675
+63,Sofía Soto,Santiago,68.71053033475404
+64,Daniela González,Concepción,
+65,Lucas Soto,Santiago,52.22360187974528
+66,Lucas Díaz,Santiago,37.925029764819776
+67,Ana Rojas,La Serena,33.18502823904349
+68,Camila Díaz,Concepción,40.191133420713825
+69,Daniela Silva,,35.74299780415951
+70,Daniela Silva,Concepción,36.32474870734662
+71,Mateo Soto,Valparaíso,30.10000204607997
+72,Daniela Díaz,La Serena,18.222684082413792
+73,Daniela Soto,Antofagasta,18.0
+74,Mateo Rojas,La Serena,42.83893859937472
+75,Ignacio Pérez,,31.67959891897144
+76,Camila Pérez,La Serena,27.846933204126
+77,Sofía Muñoz,Antofagasta,35.10206752067784
+78,Lucas Muñoz,Santiago,44.539187034987535
+79,Lucas González,La Serena,37.16436731631678
+80,Sofía González,Valparaíso,
+81,Daniela Díaz,Concepción,49.7155154677874
+82,Sofía Díaz,Concepción,53.95022603577958
+83,Daniela Muñoz,,40.93467986387424
+84,Ana Rojas,,46.68396213612908
+85,Daniela Pérez,Santiago,49.90351996176573
+86,Daniela Muñoz,La Serena,48.56119179685416
+87,Daniela Rojas,La Serena,
+88,Lucas Rojas,Santiago,42.1801645648986
+89,Mateo Díaz,Santiago,41.23592688015803
+90,Lucas Rojas,Santiago,21.831947905435477
+91,Camila Soto,La Serena,43.40867788231503
+92,Daniela Rojas,Valparaíso,18.73023234648135
+93,Benjamín Díaz,,25.46480653849934
+94,Mateo Rojas,Valparaíso,50.64278081369705
+95,Benjamín Muñoz,,45.08264195233037
+96,Benjamín Pérez,Valparaíso,
+97,Ana Muñoz,La Serena,31.739907395752493
+98,Sofía Rojas,Santiago,21.17301390467879
+99,Sofía Soto,Concepción,32.114753635155886
+100,Ana Silva,La Serena,
+101,Mateo Pérez,Antofagasta,35.947864596080116
+102,Lucas Silva,Antofagasta,48.60416574508042
+103,Lucas Soto,Santiago,30.664754899958652
+104,Mateo Díaz,Santiago,39.22441366163509
+105,Daniela Soto,Santiago,23.136474206784726
+106,Benjamín Rojas,Santiago,40.40380733652576
+107,Ana Díaz,Concepción,35.03730260222764
+108,Daniela Díaz,La Serena,26.00223994058579
+109,Benjamín Silva,La Serena,
+110,Lucas Soto,Antofagasta,
+111,Benjamín Díaz,La Serena,31.758138447954845
+112,Benjamín Pérez,La Serena,56.2560949072122
+113,Ana Muñoz,Santiago,33.81864797230544
+114,Benjamín Soto,Santiago,32.07324667787195
+115,Daniela Díaz,Concepción,
+116,Camila Díaz,Antofagasta,24.269511776246272
+117,Benjamín Soto,Santiago,31.843118906523767
+118,Ana Pérez,Valparaíso,26.769767885880285
+119,Camila González,Concepción,51.580491120533566
+120,Mateo Rojas,Santiago,33.02074669524538
+121,Ignacio Muñoz,Valparaíso,50.461330991819025
+122,Sofía Soto,Antofagasta,35.740455608604414
+123,Camila González,Concepción,35.44673403705892
+124,Mateo Muñoz,Santiago,33.93444262744999
+125,Ignacio Pérez,Antofagasta,35.04555501945751
+126,Daniela Pérez,Santiago,55.62554003659831
+127,Ana Díaz,Antofagasta,18.0
+128,Sofía Silva,Santiago,18.0
+129,Daniela Silva,Concepción,28.481950027326633
+130,Ana González,Santiago,35.174334583250825
+131,Daniela Silva,Santiago,43.28125309716815
+132,Camila Pérez,Antofagasta,40.6770463763297
+133,Ignacio Pérez,Santiago,30.389049045433158
+134,Camila González,Santiago,
+135,Mateo Pérez,Santiago,47.36234483783277
+136,Lucas Soto,La Serena,37.20869397525879
+137,Sofía Pérez,La Serena,46.5518908698421
+138,Benjamín González,,38.27174316118555
+139,Benjamín Díaz,Santiago,28.262203678605395
+140,Daniela Silva,Valparaíso,43.37380206800006
+141,Ignacio Soto,Santiago,36.32735747094413
+142,Lucas González,Concepción,35.01607816105384
+143,Mateo Silva,,52.67544286627489
+144,Mateo Silva,La Serena,18.0
+145,Mateo Muñoz,Concepción,18.0
+146,Daniela Soto,Santiago,20.755154883507558
+147,Camila Rojas,Antofagasta,30.640872229174335
+148,Sofía Pérez,Valparaíso,31.94470196280764
+149,Camila Díaz,Santiago,18.0
+150,Ana Soto,Santiago,23.178103612270085
+151,Ana Silva,Santiago,
+152,Ana Soto,Santiago,64.4890891049107
+153,Daniela Silva,Santiago,56.620903372965756
+154,Lucas Silva,Valparaíso,30.05900698778421
+155,Lucas González,Concepción,30.637000516318412
+156,Mateo Muñoz,Santiago,
+157,Lucas Soto,Valparaíso,18.0
+158,Sofía Pérez,,33.59743776309771
+159,Ignacio González,La Serena,23.025776201071693
+160,Benjamín González,Valparaíso,33.98179362005588
+161,Ignacio Díaz,Santiago,18.0
+162,Sofía Pérez,Antofagasta,25.856306500276908
+163,Mateo Muñoz,Santiago,36.78352514363397
+164,Lucas Muñoz,Santiago,39.39451517340725
+165,Mateo González,Antofagasta,40.009663504904175
+166,Mateo Díaz,Valparaíso,19.154132190115554
+167,Sofía González,La Serena,45.256228761626744
+168,Mateo Pérez,Concepción,25.397459640777797
+169,Sofía Díaz,Concepción,42.59429497528768
+170,Camila Díaz,Santiago,34.87233588058168
+171,Lucas Pérez,Santiago,18.483350011064626
+172,Lucas Díaz,Santiago,31.205627545025745
+173,Benjamín Soto,Santiago,39.384364904765214
+174,Camila Soto,Antofagasta,
+175,Ignacio Silva,Santiago,33.30814523066698
+176,Ana Soto,Concepción,53.381346687212634
+177,Camila Díaz,La Serena,47.090129251838704
+178,Ana Díaz,La Serena,31.920150603202966
+179,Camila Muñoz,Valparaíso,44.00146174564333
+180,Ignacio Pérez,Valparaíso,58.20552182225824
+181,Camila González,,58.52581520939633
+182,Ignacio Silva,Concepción,20.26400143013003
+183,Mateo Soto,La Serena,23.88160266611419
+184,Lucas González,Antofagasta,52.819025440806215
+185,Mateo Soto,La Serena,22.300627389948353
+186,Camila González,Santiago,19.129506400499853
+187,Daniela Soto,Concepción,29.16567043161144
+188,Ignacio González,Santiago,40.04272051369503
+189,Camila Díaz,Concepción,33.771239520666846
+190,Daniela Pérez,,27.193236555132895
+191,Camila Soto,Valparaíso,26.909450459305894
+192,Lucas Rojas,Valparaíso,26.451955227047495
+193,Daniela Silva,Santiago,24.44588445609269
+194,Mateo Soto,,62.37959452731274
+195,Lucas Muñoz,Santiago,38.57013285422666
+196,Camila Pérez,Santiago,45.641108652856865
+197,Ana Soto,Santiago,29.131070382572915
+198,Ana Rojas,Santiago,32.76851987376742
+199,Mateo Soto,Valparaíso,26.43735222355574
+200,Ignacio Silva,Valparaíso,
+201,Sofía Soto,Santiago,18.463888677825604
+202,Mateo Soto,Santiago,18.0
+203,Lucas Pérez,Santiago,18.0
+204,Sofía Muñoz,Santiago,20.655692308422765
+205,Lucas Soto,Santiago,50.89946815257957
+206,Camila Rojas,Concepción,34.466765987547745
+207,Daniela Díaz,Santiago,50.486765147854086
+208,Benjamín Rojas,Santiago,39.93179092281051
+209,Benjamín Rojas,Santiago,
+210,Sofía Muñoz,Valparaíso,24.1892360563451
+211,Mateo Silva,Santiago,41.28741145031205
+212,Daniela Muñoz,Santiago,43.74457080889215
+213,Ana González,Antofagasta,28.080232493195684
+214,Daniela Silva,Santiago,41.714484447394
+215,Mateo Díaz,Valparaíso,41.794253102898
+216,Lucas Díaz,Valparaíso,28.405368546439007
+217,Lucas Soto,Santiago,21.52677881274806
+218,Mateo Rojas,Valparaíso,
+219,Camila González,La Serena,36.03806650305754
+220,Lucas Soto,Antofagasta,38.924118425471775
+221,Sofía Muñoz,Santiago,25.489690034505024
+222,Benjamín Díaz,Santiago,35.319024095913186
+223,Ana Silva,Santiago,41.84644443366182
+224,Lucas Silva,Valparaíso,42.41828857598361
+225,Lucas Rojas,Concepción,53.62256144146986
+226,Ana Soto,Santiago,50.32376998637652
+227,Daniela Pérez,Santiago,22.98450280692147
+228,Mateo Díaz,Antofagasta,55.20303451445627
+229,Daniela González,Santiago,28.628281945331423
+230,Ana Rojas,Valparaíso,47.53847374945313
+231,Sofía Pérez,La Serena,35.81583951261307
+232,Mateo Silva,Santiago,30.054207458516387
+233,Sofía González,Santiago,18.0
+234,Camila Soto,Santiago,32.941225877403824
+235,Lucas Soto,Antofagasta,18.0
+236,Sofía Silva,Santiago,46.60759083011327
+237,Lucas Rojas,Santiago,53.201511885670975
+238,Ana González,Santiago,25.43706812843972
+239,Sofía Muñoz,Santiago,38.62364891023125
+240,Benjamín Soto,Concepción,26.295301735904296
+241,Daniela Silva,Santiago,27.458183238358522
+242,Sofía Pérez,Concepción,44.29393644638446
+243,Camila González,Concepción,34.53754085787905
+244,Ignacio González,Antofagasta,55.87577650317214
+245,Ignacio Díaz,Santiago,29.21321025556495
+246,Benjamín Pérez,Antofagasta,46.99203598969387
+247,Mateo González,Concepción,36.16896095549338
+248,Camila Pérez,Santiago,44.549336116930796
+249,Benjamín Díaz,La Serena,29.63410811204064
+250,Benjamín González,Antofagasta,34.405293949381004
+251,Camila González,Santiago,33.614013448412784
+252,Ana Díaz,Antofagasta,24.967314621850555
+253,Sofía Soto,Valparaíso,42.94497841498103
+254,Ignacio Soto,Concepción,42.80298806694037
+255,Mateo Díaz,,42.122656338866804
+256,Mateo Rojas,Santiago,53.443587847011734
+257,Mateo Silva,La Serena,52.39213761483564
+258,Daniela Díaz,Santiago,30.500663721810376
+259,Ana Rojas,La Serena,39.47662782121014
+260,Ana Díaz,Concepción,27.51679172890145
+261,Camila González,Santiago,35.280263793374665
+262,Mateo Rojas,Valparaíso,27.803006610573625
+263,Lucas Díaz,Santiago,54.44084370963262
+264,Mateo Silva,Santiago,39.364377804115556
+265,Mateo Soto,Santiago,32.383650462746935
+266,Ignacio Soto,Santiago,49.32342286227652
+267,Sofía Díaz,Santiago,18.0
+268,Benjamín González,Santiago,18.0
+269,Benjamín Rojas,La Serena,44.55006386263729
+270,Mateo Silva,La Serena,35.725621377408416
+271,Daniela González,La Serena,38.005355603129125
+272,Camila Silva,Santiago,19.083246760177417
+273,Ignacio Pérez,Antofagasta,34.7211954697956
+274,Camila Muñoz,Concepción,59.0421129248161
+275,Benjamín Soto,Santiago,44.89039543755035
+276,Benjamín Soto,Santiago,37.03647854171375
+277,Daniela González,Concepción,29.731353078740746
+278,Mateo González,Santiago,30.265125777567274
+279,Camila Pérez,Valparaíso,18.0
+280,Ana Silva,,38.09168505105393
+281,Camila González,Santiago,45.145797301782245
+282,Daniela Pérez,Santiago,
+283,Ana González,,27.062997292318208
+284,Ignacio Pérez,Concepción,21.110424413198935
+285,Benjamín Pérez,Santiago,23.415785662294837
+286,Sofía González,Antofagasta,35.6417795218628
+287,Camila Pérez,Antofagasta,18.0
+288,Benjamín Silva,Valparaíso,42.371245260284766
+289,Camila Silva,Concepción,44.04626083920419
+290,Ana González,Santiago,31.98676894355705
+291,Lucas Muñoz,Santiago,18.0
+292,Lucas Muñoz,Concepción,23.042976487971323
+293,Ana Díaz,Santiago,49.79482320923236
+294,Camila Muñoz,Concepción,18.0
+295,Sofía Soto,Antofagasta,30.82971905367777
+296,Lucas Soto,Santiago,20.839990658392892
+297,Lucas Soto,Concepción,44.65484361901804
+298,Lucas Muñoz,Santiago,26.898632574278466
+299,Ignacio González,Antofagasta,39.84744824882734
+300,Daniela Silva,Santiago,41.78552503002912
+301,Camila Rojas,Concepción,57.03471007676024
+302,Ana Pérez,Concepción,32.564696675895554
+303,Benjamín Silva,Santiago,39.512532435471336
+304,Ignacio González,Concepción,
+305,Ignacio González,La Serena,49.28496275952493
+306,Sofía González,Concepción,25.873893823143625
+307,Sofía Muñoz,La Serena,28.270950030947052
+308,Ana González,,34.73302646180947
+309,Sofía Soto,Valparaíso,18.0
+310,Benjamín Pérez,Valparaíso,37.74524034714726
+311,Benjamín Silva,Santiago,46.60959527510013
+312,Camila Soto,La Serena,
+313,Camila Silva,Valparaíso,18.0
+314,Daniela Muñoz,Valparaíso,33.514288468044086
+315,Mateo Rojas,Santiago,43.904346835753884
+316,Daniela Soto,Antofagasta,
+317,Ignacio Muñoz,Santiago,22.10280783418743
+318,Camila González,Concepción,45.51852324897824
+319,Sofía Pérez,Santiago,38.241145210367435
+320,Ignacio Soto,,39.94365898552105
+321,Lucas Silva,Santiago,57.31393769147974
+322,Camila Silva,Santiago,40.62263334207443
+323,Benjamín González,Antofagasta,42.89465612519815
+324,Benjamín Soto,Antofagasta,67.52894632661992
+325,Ignacio Soto,Santiago,
+326,Camila Pérez,Valparaíso,25.42540683657806
+327,Ignacio Soto,La Serena,
+328,Ignacio Soto,Antofagasta,40.267892352666735
+329,Sofía Díaz,Santiago,28.6794152966455
+330,Sofía González,Valparaíso,22.61123576534183
+331,Benjamín Díaz,La Serena,62.718133065080934
+332,Ana Muñoz,La Serena,38.92212164465627
+333,Camila González,La Serena,26.212575423175092
+334,Mateo González,Concepción,45.991163627355185
+335,Ignacio Pérez,Santiago,33.690258181263985
+336,Ignacio Díaz,Antofagasta,31.965422644186024
+337,Sofía Díaz,Antofagasta,41.74727446297392
+338,Ignacio Soto,La Serena,19.497412781219722
+339,Ana Díaz,Santiago,39.23152644700607
+340,Lucas Pérez,Santiago,57.955457692781025
+341,Daniela González,La Serena,40.59413194636773
+342,Ignacio Soto,Santiago,30.485454754598425
+343,Sofía Díaz,,
+344,Ignacio Muñoz,Santiago,30.07592031985869
+345,Ana Soto,La Serena,31.952447863426627
+346,Benjamín Soto,Antofagasta,30.466321606900735
+347,Mateo González,Santiago,45.9957372928948
+348,Camila Muñoz,Santiago,18.0
+349,Ana González,Concepción,45.344000604945606
+350,Daniela Muñoz,Concepción,30.443761698289265
+351,Camila González,Valparaíso,39.52337342834447
+352,Lucas Pérez,Concepción,21.476145077589635
+353,Mateo Díaz,Antofagasta,50.94357280219323
+354,Camila Silva,Valparaíso,49.947619522062475
+355,Ignacio Soto,Santiago,46.515086309000885
+356,Ana Pérez,Santiago,18.0
+357,Lucas Díaz,Santiago,44.94945285279263
+358,Lucas González,Santiago,39.8582610516285
+359,Mateo González,Santiago,18.0
+360,Camila Pérez,Concepción,34.708431394750214
+361,Ana González,Santiago,39.37441386839915
+362,Ignacio González,,41.67290328587781
+363,Ignacio Muñoz,Santiago,37.12713640338627
+364,Sofía Silva,Santiago,38.494777002168554
+365,Ana Díaz,La Serena,52.68333670703714
+366,Ana Pérez,Antofagasta,49.71240691892816
+367,Ana Rojas,Santiago,18.0
+368,Daniela Muñoz,Santiago,31.190737341947816
+369,Ignacio Rojas,Santiago,33.02418766947258
+370,Sofía González,Valparaíso,18.0
+371,Lucas Soto,Valparaíso,36.13019669878775
+372,Sofía Muñoz,Santiago,49.98509326892608
+373,Camila Rojas,Santiago,
+374,Benjamín Silva,Valparaíso,39.03681126427847
+375,Lucas Pérez,,24.010118272442746
+376,Daniela Díaz,Concepción,
+377,Ana Díaz,Valparaíso,52.72872361004042
+378,Sofía Soto,Santiago,28.489306158658103
+379,Camila Muñoz,Santiago,40.5465498681275
+380,Camila Pérez,Santiago,18.0
+381,Ignacio Silva,La Serena,57.347810736738566
+382,Daniela Pérez,Antofagasta,42.23182935567799
+383,Camila Díaz,Antofagasta,32.81000188819686
+384,Ignacio Muñoz,,
+385,Mateo Muñoz,,18.082166852626276
+386,Benjamín Silva,,49.19036890103189
+387,Mateo Díaz,Santiago,31.112182694042836
+388,Sofía Rojas,Santiago,32.551165819418785
+389,Ignacio Rojas,Santiago,29.100132620414186
+390,Ana Pérez,Concepción,28.032183167052985
+391,Sofía Díaz,Santiago,43.336047339540904
+392,Sofía Pérez,Antofagasta,38.070882201250676
+393,Camila Muñoz,Concepción,42.82097769683648
+394,Sofía Pérez,Valparaíso,34.89446372617314
+395,Ana Díaz,Santiago,41.158397732926176
+396,Lucas Silva,Santiago,
+397,Ignacio Muñoz,Santiago,61.75678209691458
+398,Ana Muñoz,Antofagasta,18.0
+399,Camila Díaz,Concepción,50.131247882755815
+400,Benjamín Díaz,La Serena,51.414889408651646
+401,Ignacio Pérez,Santiago,24.774094328412875
+402,Lucas Rojas,Santiago,61.75128332667168
+403,Daniela Silva,Valparaíso,46.94588339534382
+404,Benjamín Díaz,La Serena,46.65366808187494
+405,Mateo González,La Serena,35.33626624431052
+406,Sofía González,Santiago,32.393286101375885
+407,Daniela Silva,,32.4870940755247
+408,Daniela González,Santiago,39.686367155834205
+409,Ana Silva,Antofagasta,51.81423530040675
+410,Lucas Muñoz,Santiago,37.17577061433703
+411,Ana González,Santiago,
+412,Lucas Rojas,Antofagasta,44.893124748619755
+413,Daniela Pérez,Santiago,
+414,Sofía Rojas,Valparaíso,42.855914341373435
+415,Mateo Soto,Valparaíso,43.94598687829979
+416,Ana Pérez,Santiago,31.748862438106304
+417,Benjamín Rojas,La Serena,23.852129994433046
+418,Ignacio Pérez,Antofagasta,24.581678832310644
+419,Ana Silva,Antofagasta,18.0
+420,Mateo Rojas,Santiago,37.8433833385514
+421,Ignacio Muñoz,Valparaíso,33.99861460128088
+422,Camila Rojas,Santiago,29.720147545643496
+423,Sofía Soto,Santiago,18.0
+424,Mateo Muñoz,Santiago,20.032190363669972
+425,Benjamín Silva,,48.450087816838
+426,Lucas Pérez,Antofagasta,27.024487999242428
+427,Camila Pérez,La Serena,39.3271001318821
+428,Ignacio Rojas,Valparaíso,
+429,Benjamín Silva,Valparaíso,52.26446578831077
+430,Camila González,Valparaíso,33.27166807934388
+431,Ignacio Rojas,Valparaíso,38.48048475780242
+432,Ignacio Rojas,Valparaíso,62.90935750258022
+433,Mateo Díaz,Santiago,53.19728120707285
+434,Ana Díaz,Santiago,
+435,Benjamín Muñoz,,27.88135778155569
+436,Benjamín Muñoz,Valparaíso,31.093459861765616
+437,Sofía González,,41.11877898171843
+438,Lucas Pérez,Santiago,
+439,Daniela Rojas,Concepción,30.25707025995834
+440,Ana Díaz,Santiago,52.60617500850851
+441,Lucas Pérez,Santiago,33.62948129866596
+442,Sofía Pérez,Santiago,62.59506911644783
+443,Lucas Díaz,Santiago,36.08891076502608
+444,Mateo Pérez,Antofagasta,56.42382073069673
+445,Ana Pérez,Santiago,39.28783307252752
+446,Ignacio Pérez,Concepción,46.555526878993376
+447,Sofía Pérez,Valparaíso,26.304667381787308
+448,Benjamín Rojas,Valparaíso,24.75488932895106
+449,Sofía Muñoz,Valparaíso,40.51647146017985
+450,Ignacio Soto,Santiago,46.86263890958378
+451,Lucas Rojas,,35.48307802400556
+452,Daniela Díaz,La Serena,19.563279978995634
+453,Mateo Muñoz,La Serena,18.676899604528074
+454,Mateo Díaz,Valparaíso,18.0
+455,Lucas Díaz,Santiago,18.0
+456,Daniela Pérez,Antofagasta,36.31382431336505
+457,Daniela Díaz,Santiago,48.5005270604963
+458,Ana Rojas,Santiago,34.839010556902295
+459,Lucas Silva,Santiago,18.0
+460,Ana Díaz,La Serena,32.71087447598541
+461,Camila Soto,Concepción,33.04641204040871
+462,Daniela Soto,La Serena,60.151985002705274
+463,Camila Díaz,La Serena,18.0
+464,Daniela Silva,Santiago,30.311868768809653
+465,Mateo González,Antofagasta,55.47023216653477
+466,Sofía Silva,Valparaíso,40.399740096158574
+467,Camila Soto,Concepción,41.759756882197095
+468,Benjamín Díaz,Santiago,36.375013244286535
+469,Daniela Soto,,38.959322463887176
+470,Benjamín Díaz,Santiago,44.33131436334243
+471,Ignacio Muñoz,Santiago,25.286164173286803
+472,Daniela Soto,Valparaíso,
+473,Daniela Muñoz,Santiago,18.52396379737353
+474,Benjamín Rojas,Santiago,38.94041567397846
+475,Camila Díaz,Concepción,37.144891559435926
+476,Mateo Soto,Santiago,27.604482941694705
+477,Ana Rojas,Antofagasta,34.72777669609224
+478,Camila Díaz,Santiago,27.52951816801336
+479,Ignacio González,La Serena,22.139584077659066
+480,Mateo González,Valparaíso,30.75662310063627
+481,Ana González,Concepción,21.75213637554006
+482,Lucas González,Concepción,38.87356956911898
+483,Ignacio Silva,Valparaíso,21.198974070171637
+484,Daniela Soto,,43.543724275892615
+485,Camila Soto,Santiago,20.82225118485416
+486,Mateo González,Santiago,
+487,Benjamín González,Concepción,27.504759101417854
+488,Sofía Muñoz,Antofagasta,50.90176074649807
+489,Camila Díaz,Santiago,38.9634793473991
+490,Sofía Rojas,Valparaíso,
+491,Ignacio Díaz,Antofagasta,40.984633292836676
+492,Lucas Muñoz,La Serena,18.0
+493,Daniela Soto,,34.482396924309114
+494,Daniela Rojas,Valparaíso,58.97017013365715
+495,Ignacio González,Concepción,36.58815807683207
+496,Ana Soto,Santiago,35.814958030032024
+497,Ignacio Silva,,41.57754055570635
+498,Ana González,Santiago,45.74726291977215
+499,Mateo Díaz,La Serena,18.0
+500,Benjamín Soto,Valparaíso,18.0
+45,Camila Pérez,Concepción,37.52349549303376
+387,Sofía Soto,La Serena,26.421481257229885
+328,Sofía Rojas,Valparaíso,
+220,Daniela Rojas,Antofagasta,31.217907321377314
+217,Camila Pérez,Valparaíso,18.0
+430,Camila Muñoz,Concepción,19.783832997872036
+43,Ignacio Muñoz,Santiago,18.0
+349,Sofía Pérez,Valparaíso,32.19049355260505
+101,Ignacio Pérez,Valparaíso,32.7393904728274
+48,Ignacio González,Santiago,29.906447482617228
+264,Benjamín Díaz,Santiago,47.946548468356866
+488,Sofía Rojas,Concepción,49.38223803820033
+368,Sofía Díaz,Concepción,
+381,Camila Silva,Concepción,18.0
+359,Benjamín González,Santiago,42.4073789659071
+394,Sofía Silva,Santiago,41.664322742102904
+257,Mateo Díaz,Santiago,38.71269884188334
+65,Ana Soto,La Serena,46.77775699169739
+420,Benjamín Rojas,Antofagasta,21.02206284246752
+226,Ana Rojas,Santiago,59.10506463422166

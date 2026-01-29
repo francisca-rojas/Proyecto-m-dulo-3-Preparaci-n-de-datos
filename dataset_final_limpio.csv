@@ -1,0 +1,501 @@
+﻿ID_CLT,NOMBRE,EDAD,GRUPO_ETARIO,CIUDAD,PERFIL,ID_TX,FECHA,CATEGORÍA,MONTO,MONTO_W,UF,MONTO_UF
+1,Benjamín Pérez,22,Joven,Concepción,Estándar,1409.0,2025-04-29,Moda,3449,3449,39068.91,0.0883
+2,Camila González,35,Adulto Joven,La Serena,Estándar,1739.0,2025-04-26,Deportes,2946,2946,39049.43,0.0754
+3,Sofía Muñoz,31,Adulto Joven,Santiago,Estándar,381.0,2025-10-14,Electrónica,5172,5172,39511.08,0.1309
+4,Ignacio Muñoz,30,Adulto Joven,Concepción,Estándar,104.0,2025-10-31,Hogar,3928,3928,39597.67,0.0992
+5,Daniela Soto,42,Adulto,Santiago,Estándar,303.0,2025-05-31,Electrónica,5518,5518,39189.45,0.1408
+6,Lucas González,39,Adulto Joven,Santiago,Estándar,1070.0,2025-11-21,Electrónica,4670,4670,39643.59,0.1178
+7,Mateo Díaz,38,Adulto Joven,Valparaíso,Premium,410.0,2025-12-06,Electrónica,13765,10756,39643.59,0.2713
+8,Daniela Pérez,39,Adulto Joven,Santiago,Estándar,839.0,2025-10-01,Moda,4067,4067,39485.65,0.103
+9,Benjamín Díaz,42,Adulto,Santiago,Premium,415.0,2025-08-08,Otros,6855,6855,39138.51,0.1751
+10,Mateo Pérez,18,Joven,Antofagasta,Estándar,233.0,2025-01-22,Hogar,4145,4145,38406.72,0.1079
+11,Mateo Soto,30,Adulto Joven,Desconocido,Premium,300.0,2025-02-07,Moda,7560,7560,38367.06,0.197
+12,Sofía Rojas,18,Joven,Concepción,Estándar,170.0,2025-01-08,Otros,4944,4944,38436.51,0.1286
+13,Ana Soto,35,Adulto Joven,Antofagasta,Estándar,429.0,2025-03-27,Hogar,4065,4065,38874.08,0.1046
+14,Benjamín Rojas,34,Adulto Joven,Desconocido,Estándar,,,Sin Actividad,0,0,,
+15,Ignacio Silva,47,Adulto,Santiago,Estándar,830.0,2025-11-01,Hogar,5831,5831,39602.77,0.1472
+16,Ana Díaz,49,Adulto,Valparaíso,Estándar,138.0,2025-12-07,Electrónica,5270,5270,39643.59,0.1329
+17,Daniela Soto,37,Adulto Joven,Santiago,Estándar,787.0,2025-09-08,Deportes,6478,6478,39474.24,0.1641
+18,Daniela Silva,28,Adulto Joven,Santiago,Estándar,147.0,2025-10-15,Moda,2518,2518,39516.17,0.0637
+19,Camila Soto,40,Adulto Joven,La Serena,Estándar,117.0,2025-01-14,Hogar,2848,2848,38426.57,0.0741
+20,Lucas Soto,28,Adulto Joven,Valparaíso,Estándar,,,Sin Actividad,0,0,,
+21,Sofía Díaz,34,Adulto Joven,Valparaíso,Premium,250.0,2025-07-21,Moda,7704,7704,39229.7,0.1964
+22,Daniela González,46,Adulto,Santiago,Estándar,56.0,2025-08-10,Deportes,3015,3015,39144.76,0.077
+23,Lucas Díaz,28,Adulto Joven,Santiago,Premium,352.0,2025-03-29,Deportes,10843,10756,38884.1,0.2766
+24,Camila Muñoz,44,Adulto,Antofagasta,Premium,1463.0,2025-02-16,Moda,7295,7295,38467.16,0.1896
+25,Ana Silva,43,Adulto,Santiago,Premium,574.0,2025-08-01,Moda,7708,7708,39173.95,0.1968
+26,Ignacio Muñoz,23,Joven,Santiago,Estándar,584.0,2025-04-30,Hogar,6393,6393,39075.41,0.1636
+27,Mateo Muñoz,46,Adulto,Santiago,Estándar,546.0,2025-07-30,Hogar,6238,6238,39184.08,0.1592
+28,Ignacio Muñoz,43,Adulto,Valparaíso,Estándar,542.0,2025-01-11,Hogar,4761,4761,38434.02,0.1239
+29,Lucas Pérez,36,Adulto Joven,Concepción,Estándar,858.0,2025-03-18,Deportes,4225,4225,38829.06,0.1088
+30,Daniela Díaz,34,Adulto Joven,Valparaíso,Estándar,150.0,2025-02-20,Electrónica,4470,4470,38527.33,0.116
+31,Daniela Silva,34,Adulto Joven,Santiago,Estándar,619.0,2025-04-30,Hogar,5379,5379,39075.41,0.1377
+32,Sofía Rojas,28,Adulto Joven,Santiago,Estándar,36.0,2025-02-23,Moda,5845,5845,38572.51,0.1515
+33,Camila Muñoz,41,Adulto,Antofagasta,Premium,279.0,2025-08-09,Deportes,9417,9417,39133.45,0.2406
+34,Mateo González,34,Adulto Joven,Concepción,Premium,45.0,2025-09-10,Electrónica,12122,10756,39485.65,0.2724
+35,Mateo González,40,Adulto Joven,Concepción,Estándar,,,Sin Actividad,0,0,,
+36,Ana Rojas,20,Joven,Concepción,Estándar,899.0,2025-03-13,Deportes,5511,5511,38804.06,0.142
+37,Benjamín Silva,32,Adulto Joven,La Serena,Estándar,659.0,2025-04-25,Hogar,4273,4273,39042.94,0.1094
+38,Sofía Díaz,36,Adulto Joven,Santiago,Estándar,1215.0,2025-06-02,Deportes,3108,3108,39194.5,0.0793
+39,Lucas Silva,64,Mayor,Santiago,Estándar,69.0,2025-08-22,Deportes,4862,4862,39280.76,0.1238
+40,Lucas González,18,Joven,Valparaíso,Estándar,127.0,2025-08-30,Moda,5837,5837,39371.69,0.1483
+41,Ignacio González,52,Adulto,Santiago,Estándar,439.0,2025-02-24,Electrónica,5657,5657,38587.59,0.1466
+42,Lucas Soto,36,Adulto Joven,Antofagasta,Estándar,280.0,2025-04-25,Deportes,3455,3455,39042.94,0.0885
+43,Camila González,39,Adulto Joven,Valparaíso,Estándar,7.0,2025-07-17,Deportes,3869,3869,39249.99,0.0986
+44,Ignacio González,36,Adulto Joven,La Serena,Estándar,196.0,2025-03-06,Moda,4874,4874,38738.65,0.1258
+45,Mateo Rojas,40,Adulto Joven,Antofagasta,Premium,1.0,2025-02-12,Moda,25000,10756,38407.09,0.2801
+46,Camila Silva,33,Adulto Joven,Valparaíso,Estándar,133.0,2025-06-17,Electrónica,4146,4146,39233.09,0.1057
+47,Ignacio Pérez,52,Adulto,Antofagasta,Estándar,33.0,2025-11-14,Hogar,3678,3678,39643.59,0.0928
+48,Camila González,29,Adulto Joven,Concepción,Estándar,10.0,2025-05-09,Hogar,3727,3727,39133.92,0.0952
+49,Ana Soto,48,Adulto,Antofagasta,Estándar,87.0,2025-04-04,Electrónica,6510,6510,38914.15,0.1673
+50,Mateo Soto,27,Adulto Joven,Santiago,Estándar,588.0,2025-08-26,Hogar,4398,4398,39326.2,0.1118
+51,Daniela Soto,34,Adulto Joven,Valparaíso,Estándar,580.0,2025-05-31,Electrónica,4662,4662,39189.45,0.119
+52,Sofía Silva,22,Joven,Valparaíso,Premium,258.0,2025-05-02,Moda,8382,8382,39088.4,0.2144
+53,Mateo Muñoz,40,Adulto Joven,Santiago,Premium,460.0,2025-11-25,Deportes,7794,7794,39643.59,0.1966
+54,Sofía Silva,52,Adulto,Santiago,Estándar,171.0,2025-12-08,Moda,5401,5401,39643.59,0.1362
+55,Lucas Rojas,34,Adulto Joven,Antofagasta,Estándar,310.0,2025-06-12,Moda,6052,6052,39220.03,0.1543
+56,Mateo Soto,32,Adulto Joven,Concepción,Estándar,808.0,2025-08-29,Moda,4039,4039,39360.32,0.1026
+57,Camila Pérez,21,Joven,Santiago,Estándar,501.0,2025-04-15,Hogar,5182,5182,38978.08,0.1329
+58,Sofía Soto,32,Adulto Joven,Santiago,Estándar,120.0,2025-04-15,Moda,5114,5114,38978.08,0.1312
+59,Benjamín Pérez,34,Adulto Joven,Santiago,Premium,726.0,2025-05-14,Electrónica,8187,8187,39146.53,0.2091
+60,Lucas Pérez,24,Joven,Santiago,Estándar,198.0,2025-02-18,Deportes,3563,3563,38497.23,0.0926
+61,Ignacio Pérez,37,Adulto Joven,Antofagasta,Estándar,418.0,2025-09-16,Electrónica,4775,4775,39485.65,0.1209
+62,Mateo Soto,50,Adulto,Valparaíso,Premium,386.0,2025-02-13,Moda,9036,9036,38422.1,0.2352
+63,Sofía Soto,68,Mayor,Santiago,Estándar,874.0,2025-09-30,Hogar,2569,2569,39485.65,0.0651
+64,Daniela González,34,Adulto Joven,Concepción,Estándar,157.0,2025-07-14,Deportes,6098,6098,39265.22,0.1553
+65,Lucas Soto,52,Adulto,Santiago,Estándar,18.0,2025-04-06,Hogar,5213,5213,38924.18,0.1339
+66,Lucas Díaz,37,Adulto Joven,Santiago,Estándar,414.0,2025-05-20,Hogar,3511,3511,39161.67,0.0897
+67,Ana Rojas,33,Adulto Joven,La Serena,Estándar,443.0,2025-12-12,Deportes,4646,4646,39655.08,0.1172
+68,Camila Díaz,40,Adulto Joven,Concepción,Premium,604.0,2025-06-02,Electrónica,8876,8876,39194.5,0.2265
+69,Daniela Silva,35,Adulto Joven,Desconocido,Estándar,682.0,2025-11-10,Hogar,4383,4383,39643.59,0.1106
+70,Daniela Silva,36,Adulto Joven,Concepción,Estándar,100.0,2025-09-20,Hogar,5789,5789,39485.65,0.1466
+71,Mateo Soto,30,Adulto Joven,Valparaíso,Estándar,241.0,2025-09-28,Moda,2379,2379,39485.65,0.0602
+72,Daniela Díaz,18,Joven,La Serena,Estándar,408.0,2025-04-12,Electrónica,4342,4342,38958.65,0.1115
+73,Daniela Soto,18,Joven,Antofagasta,Premium,256.0,2025-04-20,Electrónica,6859,6859,39010.5,0.1758
+74,Mateo Rojas,42,Adulto,La Serena,Estándar,522.0,2025-11-30,Hogar,2218,2218,39643.59,0.0559
+75,Ignacio Pérez,31,Adulto Joven,Desconocido,Premium,457.0,2025-02-25,Hogar,9390,9390,38602.67,0.2432
+76,Camila Pérez,27,Adulto Joven,La Serena,Estándar,273.0,2025-09-03,Moda,6303,6303,39417.24,0.1599
+77,Sofía Muñoz,35,Adulto Joven,Antofagasta,Estándar,182.0,2025-09-23,Otros,5523,5523,39485.65,0.1399
+78,Lucas Muñoz,44,Adulto,Santiago,Estándar,58.0,2025-04-02,Moda,6507,6507,38904.13,0.1673
+79,Lucas González,37,Adulto Joven,La Serena,Estándar,750.0,2025-01-09,Deportes,5440,5440,38438.98,0.1415
+80,Sofía González,34,Adulto Joven,Valparaíso,Estándar,,,Sin Actividad,0,0,,
+81,Daniela Díaz,49,Adulto,Concepción,Premium,83.0,2025-08-24,Moda,7448,7448,39303.48,0.1895
+82,Sofía Díaz,53,Adulto,Concepción,Estándar,1076.0,2025-03-29,Moda,4804,4804,38884.1,0.1235
+83,Daniela Muñoz,40,Adulto Joven,Desconocido,Estándar,41.0,2025-09-05,Electrónica,5848,5848,39440.03,0.1483
+84,Ana Rojas,46,Adulto,Desconocido,Estándar,168.0,2025-02-24,Moda,3617,3617,38587.59,0.0937
+85,Daniela Pérez,49,Adulto,Santiago,Estándar,685.0,2025-06-22,Hogar,3956,3956,39246.15,0.1008
+86,Daniela Muñoz,48,Adulto,La Serena,Estándar,262.0,2025-01-01,Moda,5022,5022,38419.17,0.1307
+87,Daniela Rojas,34,Adulto Joven,La Serena,Estándar,908.0,2025-01-18,Deportes,3654,3654,38416.64,0.0951
+88,Lucas Rojas,42,Adulto,Santiago,Premium,259.0,2025-12-15,Hogar,10183,10183,39666.58,0.2567
+89,Mateo Díaz,41,Adulto,Santiago,Estándar,230.0,2025-01-07,Hogar,2492,2492,38434.03,0.0648
+90,Lucas Rojas,21,Joven,Santiago,Estándar,251.0,2025-06-22,Moda,4444,4444,39246.15,0.1132
+91,Camila Soto,43,Adulto,La Serena,Estándar,349.0,2025-10-06,Deportes,4201,4201,39485.65,0.1064
+92,Daniela Rojas,18,Joven,Valparaíso,Estándar,23.0,2025-04-30,Moda,5453,5453,39075.41,0.1396
+93,Benjamín Díaz,25,Joven,Desconocido,Estándar,1432.0,2025-03-22,Electrónica,4953,4953,38849.06,0.1275
+94,Mateo Rojas,50,Adulto,Valparaíso,Premium,1326.0,2025-03-17,Moda,10043,10043,38824.06,0.2587
+95,Benjamín Muñoz,45,Adulto,Desconocido,Estándar,72.0,2025-05-04,Otros,6268,6268,39101.4,0.1603
+96,Benjamín Pérez,34,Adulto Joven,Valparaíso,Estándar,1178.0,2025-09-03,Electrónica,5104,5104,39417.24,0.1295
+97,Ana Muñoz,31,Adulto Joven,La Serena,Estándar,523.0,2025-10-03,Deportes,5441,5441,39485.65,0.1378
+98,Sofía Rojas,21,Joven,Santiago,Estándar,52.0,2025-09-01,Hogar,4815,4815,39394.46,0.1222
+99,Sofía Soto,32,Adulto Joven,Concepción,Estándar,398.0,2025-09-06,Hogar,4926,4926,39451.43,0.1249
+100,Ana Silva,34,Adulto Joven,La Serena,Estándar,102.0,2025-04-26,Hogar,4105,4105,39049.43,0.1051
+101,Mateo Pérez,35,Adulto Joven,Antofagasta,Estándar,9.0,2025-03-16,Otros,4549,4549,38819.06,0.1172
+102,Lucas Silva,48,Adulto,Antofagasta,Estándar,224.0,2025-07-21,Deportes,6363,6363,39229.7,0.1622
+103,Lucas Soto,30,Adulto Joven,Santiago,Premium,1740.0,2025-02-28,Deportes,8352,8352,38647.94,0.2161
+104,Mateo Díaz,39,Adulto Joven,Santiago,Premium,1474.0,2025-02-09,Hogar,10594,10594,38362.1,0.2762
+105,Daniela Soto,23,Joven,Santiago,Estándar,735.0,2025-07-12,Moda,2329,2329,39275.37,0.0593
+106,Benjamín Rojas,40,Adulto Joven,Santiago,Estándar,1745.0,2025-09-22,Electrónica,3060,3060,39485.65,0.0775
+107,Ana Díaz,35,Adulto Joven,Concepción,Estándar,1710.0,2025-02-22,Hogar,4673,4673,38557.45,0.1212
+108,Daniela Díaz,26,Adulto Joven,La Serena,Premium,142.0,2025-02-13,Electrónica,7083,7083,38422.1,0.1843
+109,Benjamín Silva,34,Adulto Joven,La Serena,Estándar,964.0,2025-11-22,Hogar,3325,3325,39643.59,0.0839
+110,Lucas Soto,34,Adulto Joven,Antofagasta,Estándar,903.0,2025-02-17,Deportes,5258,5258,38482.2,0.1366
+111,Benjamín Díaz,31,Adulto Joven,La Serena,Estándar,1257.0,2025-10-16,Moda,4878,4878,39521.26,0.1234
+112,Benjamín Pérez,56,Adulto,La Serena,Estándar,363.0,2025-01-14,Electrónica,5879,5879,38426.57,0.153
+113,Ana Muñoz,33,Adulto Joven,Santiago,Estándar,976.0,2025-07-05,Moda,3709,3709,39280.15,0.0944
+114,Benjamín Soto,32,Adulto Joven,Santiago,Estándar,32.0,2025-10-15,Hogar,5412,5412,39516.17,0.137
+115,Daniela Díaz,34,Adulto Joven,Concepción,Premium,412.0,2025-11-28,Hogar,7824,7824,39643.59,0.1974
+116,Camila Díaz,24,Joven,Antofagasta,Premium,326.0,2025-03-03,Moda,8195,8195,38693.27,0.2118
+117,Benjamín Soto,31,Adulto Joven,Santiago,Estándar,148.0,2025-01-23,Electrónica,3758,3758,38404.24,0.0979
+118,Ana Pérez,26,Adulto Joven,Valparaíso,Premium,637.0,2025-08-20,Hogar,11856,10756,39258.06,0.274
+119,Camila González,51,Adulto,Concepción,Estándar,327.0,2025-08-18,Electrónica,5026,5026,39235.38,0.1281
+120,Mateo Rojas,33,Adulto Joven,Santiago,Estándar,97.0,2025-01-22,Hogar,3063,3063,38406.72,0.0798
+121,Ignacio Muñoz,50,Adulto,Valparaíso,Premium,384.0,2025-07-31,Deportes,7608,7608,39179.01,0.1942
+122,Sofía Soto,35,Adulto Joven,Antofagasta,Estándar,315.0,2025-09-27,Otros,4167,4167,39485.65,0.1055
+123,Camila González,35,Adulto Joven,Concepción,Estándar,119.0,2025-06-08,Hogar,4503,4503,39209.66,0.1148
+124,Mateo Muñoz,33,Adulto Joven,Santiago,Estándar,508.0,2025-05-13,Deportes,4700,4700,39144.01,0.1201
+125,Ignacio Pérez,35,Adulto Joven,Antofagasta,Estándar,568.0,2025-05-09,Electrónica,4590,4590,39133.92,0.1173
+126,Daniela Pérez,55,Adulto,Santiago,Estándar,483.0,2025-10-14,Hogar,5584,5584,39511.08,0.1413
+127,Ana Díaz,18,Joven,Antofagasta,Estándar,696.0,2025-08-08,Electrónica,3275,3275,39138.51,0.0837
+128,Sofía Silva,18,Joven,Santiago,Estándar,346.0,2025-09-17,Hogar,4109,4109,39485.65,0.1041
+129,Daniela Silva,28,Adulto Joven,Concepción,Estándar,933.0,2025-10-20,Hogar,5291,5291,39541.62,0.1338
+130,Ana González,35,Adulto Joven,Santiago,Estándar,1179.0,2025-10-01,Electrónica,3896,3896,39485.65,0.0987
+131,Daniela Silva,43,Adulto,Santiago,Premium,211.0,2025-04-15,Hogar,8234,8234,38978.08,0.2112
+132,Camila Pérez,40,Adulto Joven,Antofagasta,Estándar,209.0,2025-09-25,Moda,6441,6441,39485.65,0.1631
+133,Ignacio Pérez,30,Adulto Joven,Santiago,Estándar,206.0,2025-03-12,Deportes,4058,4058,38799.07,0.1046
+134,Camila González,34,Adulto Joven,Santiago,Estándar,292.0,2025-08-25,Electrónica,2655,2655,39314.84,0.0675
+135,Mateo Pérez,47,Adulto,Santiago,Estándar,509.0,2025-07-26,Moda,3107,3107,39204.35,0.0793
+136,Lucas Soto,37,Adulto Joven,La Serena,Estándar,744.0,2025-01-19,Hogar,5851,5851,38414.16,0.1523
+137,Sofía Pérez,46,Adulto,La Serena,Estándar,216.0,2025-08-01,Moda,3557,3557,39173.95,0.0908
+138,Benjamín González,38,Adulto Joven,Desconocido,Estándar,281.0,2025-03-24,Deportes,3293,3293,38859.07,0.0847
+139,Benjamín Díaz,28,Adulto Joven,Santiago,Premium,39.0,2025-01-05,Moda,7355,7355,38429.08,0.1914
+140,Daniela Silva,43,Adulto,Valparaíso,Estándar,413.0,2025-01-25,Hogar,4281,4281,38399.28,0.1115
+141,Ignacio Soto,36,Adulto Joven,Santiago,Premium,152.0,2025-08-25,Hogar,8756,8756,39314.84,0.2227
+142,Lucas González,35,Adulto Joven,Concepción,Estándar,573.0,2025-04-05,Deportes,4309,4309,38919.16,0.1107
+143,Mateo Silva,52,Adulto,Desconocido,Estándar,299.0,2025-09-29,Deportes,1928,1928,39485.65,0.0488
+144,Mateo Silva,18,Joven,La Serena,Estándar,450.0,2025-10-16,Deportes,3536,3536,39521.26,0.0895
+145,Mateo Muñoz,18,Joven,Concepción,Premium,96.0,2025-03-19,Moda,6794,6794,38834.06,0.1749
+146,Daniela Soto,20,Joven,Santiago,Premium,342.0,2025-07-31,Hogar,13991,10756,39179.01,0.2745
+147,Camila Rojas,30,Adulto Joven,Antofagasta,Estándar,154.0,2025-06-08,Electrónica,3633,3633,39209.66,0.0927
+148,Sofía Pérez,31,Adulto Joven,Valparaíso,Estándar,271.0,2025-08-26,Hogar,5491,5491,39326.2,0.1396
+149,Camila Díaz,18,Joven,Santiago,Premium,419.0,2025-09-06,Moda,9455,9455,39451.43,0.2397
+150,Ana Soto,23,Joven,Santiago,Estándar,263.0,2025-12-04,Deportes,4807,4807,39643.59,0.1213
+151,Ana Silva,34,Adulto Joven,Santiago,Estándar,190.0,2025-05-25,Moda,3749,3749,39174.3,0.0957
+152,Ana Soto,64,Mayor,Santiago,Estándar,136.0,2025-04-20,Deportes,5405,5405,39010.5,0.1386
+153,Daniela Silva,56,Adulto,Santiago,Premium,226.0,2025-05-13,Hogar,11680,10756,39144.01,0.2748
+154,Lucas Silva,30,Adulto Joven,Valparaíso,Estándar,1105.0,2025-04-15,Hogar,4406,4406,38978.08,0.113
+155,Lucas González,30,Adulto Joven,Concepción,Estándar,239.0,2025-07-02,Hogar,5074,5074,39272.3,0.1292
+156,Mateo Muñoz,34,Adulto Joven,Santiago,Estándar,400.0,2025-04-03,Moda,3112,3112,38909.14,0.08
+157,Lucas Soto,18,Joven,Valparaíso,Premium,88.0,2025-04-28,Moda,10761,10756,39062.41,0.2754
+158,Sofía Pérez,33,Adulto Joven,Desconocido,Estándar,309.0,2025-08-30,Hogar,4624,4624,39371.69,0.1174
+159,Ignacio González,23,Joven,La Serena,Premium,338.0,2025-03-05,Hogar,8089,8089,38723.52,0.2089
+160,Benjamín González,33,Adulto Joven,Valparaíso,Estándar,525.0,2025-11-24,Hogar,4470,4470,39643.59,0.1128
+161,Ignacio Díaz,18,Joven,Santiago,Estándar,167.0,2025-08-27,Electrónica,5089,5089,39337.57,0.1294
+162,Sofía Pérez,25,Joven,Antofagasta,Estándar,607.0,2025-06-13,Deportes,5092,5092,39222.64,0.1298
+163,Mateo Muñoz,36,Adulto Joven,Santiago,Estándar,66.0,2025-06-21,Deportes,5029,5029,39243.54,0.1281
+164,Lucas Muñoz,39,Adulto Joven,Santiago,Estándar,632.0,2025-04-22,Otros,5168,5168,39023.47,0.1324
+165,Mateo González,40,Adulto Joven,Antofagasta,Estándar,254.0,2025-06-24,Otros,6383,6383,39251.38,0.1626
+166,Mateo Díaz,19,Joven,Valparaíso,Estándar,77.0,2025-07-06,Electrónica,4104,4104,39282.76,0.1045
+167,Sofía González,45,Adulto,La Serena,Estándar,738.0,2025-10-11,Hogar,4874,4874,39495.82,0.1234
+168,Mateo Pérez,25,Joven,Concepción,Estándar,169.0,2025-01-23,Electrónica,5137,5137,38404.24,0.1338
+169,Sofía Díaz,42,Adulto,Concepción,Estándar,,,Sin Actividad,0,0,,
+170,Camila Díaz,34,Adulto Joven,Santiago,Estándar,199.0,2025-05-30,Electrónica,3251,3251,39186.92,0.083
+171,Lucas Pérez,18,Joven,Santiago,Estándar,1160.0,2025-02-14,Electrónica,5608,5608,38437.12,0.1459
+172,Lucas Díaz,31,Adulto Joven,Santiago,Premium,197.0,2025-09-05,Hogar,6699,6699,39440.03,0.1699
+173,Benjamín Soto,39,Adulto Joven,Santiago,Estándar,1357.0,2025-11-26,Moda,6478,6478,39643.59,0.1634
+174,Camila Soto,34,Adulto Joven,Antofagasta,Premium,139.0,2025-06-10,Electrónica,6937,6937,39214.8,0.1769
+175,Ignacio Silva,33,Adulto Joven,Santiago,Estándar,1312.0,2025-07-28,Moda,1664,1664,39194.21,0.0425
+176,Ana Soto,53,Adulto,Concepción,Premium,979.0,2025-09-08,Hogar,7629,7629,39474.24,0.1933
+177,Camila Díaz,47,Adulto,La Serena,Estándar,,,Sin Actividad,0,0,,
+178,Ana Díaz,31,Adulto Joven,La Serena,Estándar,44.0,2025-03-29,Deportes,4043,4043,38884.1,0.104
+179,Camila Muñoz,44,Adulto,Valparaíso,Estándar,521.0,2025-07-14,Moda,5073,5073,39265.22,0.1292
+180,Ignacio Pérez,58,Adulto,Valparaíso,Estándar,1685.0,2025-01-09,Deportes,2918,2918,38438.98,0.0759
+181,Camila González,58,Adulto,Desconocido,Estándar,194.0,2025-09-30,Moda,4321,4321,39485.65,0.1094
+182,Ignacio Silva,20,Joven,Concepción,Estándar,53.0,2025-08-11,Moda,3206,3206,39156.08,0.0819
+183,Mateo Soto,23,Joven,La Serena,Premium,746.0,2025-07-27,Hogar,7045,7045,39199.28,0.1797
+184,Lucas González,52,Adulto,Antofagasta,Estándar,63.0,2025-10-24,Deportes,3839,3839,39562.0,0.097
+185,Mateo Soto,22,Joven,La Serena,Estándar,1151.0,2025-04-11,Moda,5090,5090,38952.17,0.1307
+186,Camila González,19,Joven,Santiago,Estándar,22.0,2025-04-29,Hogar,2344,2344,39068.91,0.06
+187,Daniela Soto,29,Adulto Joven,Concepción,Estándar,374.0,2025-07-29,Moda,5350,5350,39189.14,0.1365
+188,Ignacio González,40,Adulto Joven,Santiago,Estándar,498.0,2025-02-08,Otros,6208,6208,38364.58,0.1618
+189,Camila Díaz,33,Adulto Joven,Concepción,Estándar,770.0,2025-01-15,Moda,3956,3956,38424.09,0.103
+190,Daniela Pérez,27,Adulto Joven,Desconocido,Estándar,379.0,2025-01-05,Electrónica,4933,4933,38429.08,0.1284
+191,Camila Soto,26,Adulto Joven,Valparaíso,Premium,188.0,2025-09-17,Hogar,14746,10756,39485.65,0.2724
+192,Lucas Rojas,26,Adulto Joven,Valparaíso,Estándar,758.0,2025-05-08,Hogar,4852,4852,39127.41,0.124
+193,Daniela Silva,24,Joven,Santiago,Estándar,614.0,2025-05-21,Moda,2424,2424,39164.2,0.0619
+194,Mateo Soto,62,Mayor,Desconocido,Estándar,94.0,2025-10-07,Electrónica,5208,5208,39485.65,0.1319
+195,Lucas Muñoz,38,Adulto Joven,Santiago,Estándar,1629.0,2025-02-23,Moda,4878,4878,38572.51,0.1265
+196,Camila Pérez,45,Adulto,Santiago,Premium,809.0,2025-03-14,Moda,7135,7135,38809.06,0.1838
+197,Ana Soto,29,Adulto Joven,Santiago,Premium,552.0,2025-08-25,Moda,9190,9190,39314.84,0.2338
+198,Ana Rojas,32,Adulto Joven,Santiago,Estándar,1478.0,2025-06-13,Hogar,4362,4362,39222.64,0.1112
+199,Mateo Soto,26,Adulto Joven,Valparaíso,Estándar,440.0,2025-11-22,Hogar,3505,3505,39643.59,0.0884
+200,Ignacio Silva,34,Adulto Joven,Valparaíso,Estándar,1168.0,2025-09-13,Hogar,6583,6583,39485.65,0.1667
+201,Sofía Soto,18,Joven,Santiago,Premium,957.0,2025-11-11,Hogar,10639,10639,39643.59,0.2684
+202,Mateo Soto,18,Joven,Santiago,Estándar,27.0,2025-05-15,Hogar,3995,3995,39149.06,0.102
+203,Lucas Pérez,18,Joven,Santiago,Estándar,585.0,2025-08-15,Hogar,6436,6436,39201.37,0.1642
+204,Sofía Muñoz,20,Joven,Santiago,Estándar,164.0,2025-01-31,Moda,5449,5449,38384.41,0.142
+205,Lucas Soto,50,Adulto,Santiago,Estándar,144.0,2025-05-17,Moda,2425,2425,39154.1,0.0619
+206,Camila Rojas,34,Adulto Joven,Concepción,Estándar,65.0,2025-05-24,Moda,6050,6050,39171.77,0.1544
+207,Daniela Díaz,50,Adulto,Santiago,Estándar,496.0,2025-10-05,Hogar,4036,4036,39485.65,0.1022
+208,Benjamín Rojas,39,Adulto Joven,Santiago,Estándar,248.0,2025-10-15,Moda,5184,5184,39516.17,0.1312
+209,Benjamín Rojas,34,Adulto Joven,Santiago,Premium,165.0,2025-01-16,Electrónica,6810,6810,38421.61,0.1772
+210,Sofía Muñoz,24,Joven,Valparaíso,Estándar,275.0,2025-10-14,Electrónica,5586,5586,39511.08,0.1414
+211,Mateo Silva,41,Adulto,Santiago,Premium,1185.0,2025-05-10,Hogar,11004,10756,39136.44,0.2748
+212,Daniela Muñoz,43,Adulto,Santiago,Estándar,777.0,2025-06-16,Hogar,2970,2970,39230.48,0.0757
+213,Ana González,28,Adulto Joven,Antofagasta,Estándar,500.0,2025-01-25,Moda,4242,4242,38399.28,0.1105
+214,Daniela Silva,41,Adulto,Santiago,Estándar,954.0,2025-07-16,Deportes,3095,3095,39255.07,0.0788
+215,Mateo Díaz,41,Adulto,Valparaíso,Estándar,547.0,2025-03-13,Otros,5523,5523,38804.06,0.1423
+216,Lucas Díaz,28,Adulto Joven,Valparaíso,Premium,795.0,2025-11-21,Hogar,6748,6748,39643.59,0.1702
+217,Lucas Soto,21,Joven,Santiago,Premium,5.0,2025-03-12,Moda,18000,10756,38799.07,0.2772
+218,Mateo Rojas,34,Adulto Joven,Valparaíso,Estándar,91.0,2025-02-09,Deportes,3359,3359,38362.1,0.0876
+219,Camila González,36,Adulto Joven,La Serena,Estándar,82.0,2025-11-13,Moda,4155,4155,39643.59,0.1048
+220,Lucas Soto,38,Adulto Joven,Antofagasta,Premium,4.0,2025-07-09,Moda,15000,10756,39290.61,0.2738
+221,Sofía Muñoz,25,Joven,Santiago,Estándar,285.0,2025-04-22,Moda,4425,4425,39023.47,0.1134
+222,Benjamín Díaz,35,Adulto Joven,Santiago,Estándar,30.0,2025-08-18,Electrónica,3651,3651,39235.38,0.0931
+223,Ana Silva,41,Adulto,Santiago,Estándar,47.0,2025-07-10,Hogar,3830,3830,39285.53,0.0975
+224,Lucas Silva,42,Adulto,Valparaíso,Estándar,186.0,2025-09-06,Electrónica,4813,4813,39451.43,0.122
+225,Lucas Rojas,53,Adulto,Concepción,Estándar,214.0,2025-11-05,Hogar,3721,3721,39623.18,0.0939
+226,Ana Soto,50,Adulto,Santiago,Estándar,20.0,2025-07-08,Deportes,2925,2925,39288.0,0.0745
+227,Daniela Pérez,22,Joven,Santiago,Estándar,506.0,2025-11-05,Hogar,3021,3021,39623.18,0.0762
+228,Mateo Díaz,55,Adulto,Antofagasta,Estándar,222.0,2025-10-23,Otros,6060,6060,39556.9,0.1532
+229,Daniela González,28,Adulto Joven,Santiago,Estándar,205.0,2025-07-10,Moda,3713,3713,39285.53,0.0945
+230,Ana Rojas,47,Adulto,Valparaíso,Estándar,114.0,2025-02-01,Deportes,6182,6182,38381.93,0.1611
+231,Sofía Pérez,35,Adulto Joven,La Serena,Estándar,176.0,2025-03-24,Hogar,5199,5199,38859.07,0.1338
+232,Mateo Silva,30,Adulto Joven,Santiago,Estándar,73.0,2025-07-28,Deportes,1765,1765,39194.21,0.045
+233,Sofía González,18,Joven,Santiago,Estándar,710.0,2025-02-13,Electrónica,4222,4222,38422.1,0.1099
+234,Camila Soto,32,Adulto Joven,Santiago,Premium,54.0,2025-01-19,Moda,8044,8044,38414.16,0.2094
+235,Lucas Soto,18,Joven,Antofagasta,Estándar,70.0,2025-07-22,Hogar,2933,2933,39224.63,0.0748
+236,Sofía Silva,46,Adulto,Santiago,Estándar,109.0,2025-09-09,Electrónica,5820,5820,39485.65,0.1474
+237,Lucas Rojas,53,Adulto,Santiago,Estándar,290.0,2025-07-23,Moda,6088,6088,39219.56,0.1552
+238,Ana González,25,Joven,Santiago,Premium,76.0,2025-07-26,Otros,8437,8437,39204.35,0.2152
+239,Sofía Muñoz,38,Adulto Joven,Santiago,Estándar,622.0,2025-08-01,Electrónica,3607,3607,39173.95,0.0921
+240,Benjamín Soto,26,Adulto Joven,Concepción,Estándar,768.0,2025-01-03,Hogar,2498,2498,38424.12,0.065
+241,Daniela Silva,27,Adulto Joven,Santiago,Estándar,644.0,2025-07-06,Moda,2325,2325,39282.76,0.0592
+242,Sofía Pérez,44,Adulto,Concepción,Estándar,276.0,2025-07-20,Hogar,6070,6070,39234.77,0.1547
+243,Camila González,34,Adulto Joven,Concepción,Estándar,,,Sin Actividad,0,0,,
+244,Ignacio González,55,Adulto,Antofagasta,Estándar,282.0,2025-08-14,Electrónica,4922,4922,39190.04,0.1256
+245,Ignacio Díaz,29,Adulto Joven,Santiago,Estándar,444.0,2025-10-02,Otros,3864,3864,39485.65,0.0979
+246,Benjamín Pérez,46,Adulto,Antofagasta,Estándar,284.0,2025-03-16,Electrónica,3484,3484,38819.06,0.0897
+247,Mateo González,36,Adulto Joven,Concepción,Estándar,235.0,2025-05-24,Electrónica,6227,6227,39171.77,0.159
+248,Camila Pérez,44,Adulto,Santiago,Premium,185.0,2025-05-08,Deportes,8273,8273,39127.41,0.2114
+249,Benjamín Díaz,29,Adulto Joven,La Serena,Estándar,55.0,2025-04-10,Hogar,6421,6421,38945.69,0.1649
+250,Benjamín González,34,Adulto Joven,Antofagasta,Premium,405.0,2025-08-03,Moda,9374,9374,39163.82,0.2394
+251,Camila González,33,Adulto Joven,Santiago,Premium,21.0,2025-09-01,Electrónica,6803,6803,39394.46,0.1727
+252,Ana Díaz,24,Joven,Antofagasta,Estándar,667.0,2025-09-22,Electrónica,3804,3804,39485.65,0.0963
+253,Sofía Soto,42,Adulto,Valparaíso,Estándar,115.0,2025-04-01,Hogar,4622,4622,38899.12,0.1188
+254,Ignacio Soto,42,Adulto,Concepción,Estándar,420.0,2025-07-22,Otros,4338,4338,39224.63,0.1106
+255,Mateo Díaz,42,Adulto,Desconocido,Estándar,445.0,2025-05-21,Electrónica,6327,6327,39164.2,0.1616
+256,Mateo Rojas,53,Adulto,Santiago,Estándar,,,Sin Actividad,0,0,,
+257,Mateo Silva,52,Adulto,La Serena,Estándar,17.0,2025-07-24,Deportes,4422,4422,39214.48,0.1128
+258,Daniela Díaz,30,Adulto Joven,Santiago,Estándar,344.0,2025-04-02,Moda,4081,4081,38904.13,0.1049
+259,Ana Rojas,39,Adulto Joven,La Serena,Premium,717.0,2025-07-17,Hogar,8880,8880,39249.99,0.2262
+260,Ana Díaz,27,Adulto Joven,Concepción,Estándar,366.0,2025-11-15,Hogar,5913,5913,39643.59,0.1492
+261,Camila González,35,Adulto Joven,Santiago,Estándar,296.0,2025-03-11,Moda,3302,3302,38794.07,0.0851
+262,Mateo Rojas,27,Adulto Joven,Valparaíso,Estándar,578.0,2025-07-11,Deportes,5514,5514,39280.45,0.1404
+263,Lucas Díaz,54,Adulto,Santiago,Estándar,1074.0,2025-03-18,Hogar,3571,3571,38829.06,0.092
+264,Mateo Silva,39,Adulto Joven,Santiago,Estándar,11.0,2025-06-25,Deportes,6070,6070,39254.0,0.1546
+265,Mateo Soto,32,Adulto Joven,Santiago,Premium,995.0,2025-03-22,Hogar,7981,7981,38849.06,0.2054
+266,Ignacio Soto,49,Adulto,Santiago,Estándar,488.0,2025-11-26,Moda,3389,3389,39643.59,0.0855
+267,Sofía Díaz,18,Joven,Santiago,Estándar,351.0,2025-06-10,Deportes,4104,4104,39214.8,0.1047
+268,Benjamín González,18,Joven,Santiago,Estándar,648.0,2025-03-16,Hogar,4827,4827,38819.06,0.1243
+269,Benjamín Rojas,44,Adulto,La Serena,Estándar,561.0,2025-05-28,Otros,3954,3954,39181.87,0.1009
+270,Mateo Silva,35,Adulto Joven,La Serena,Premium,877.0,2025-04-28,Hogar,7401,7401,39062.41,0.1895
+271,Daniela González,38,Adulto Joven,La Serena,Estándar,539.0,2025-06-13,Deportes,3686,3686,39222.64,0.094
+272,Camila Silva,19,Joven,Santiago,Premium,289.0,2025-01-23,Electrónica,7289,7289,38404.24,0.1898
+273,Ignacio Pérez,34,Adulto Joven,Antofagasta,Estándar,29.0,2025-06-15,Moda,4520,4520,39227.86,0.1152
+274,Camila Muñoz,59,Adulto,Concepción,Premium,57.0,2025-04-03,Electrónica,10178,10178,38909.14,0.2616
+275,Benjamín Soto,44,Adulto,Santiago,Estándar,879.0,2025-02-14,Moda,3357,3357,38437.12,0.0873
+276,Benjamín Soto,37,Adulto Joven,Santiago,Estándar,1497.0,2025-11-10,Hogar,6626,6626,39643.59,0.1671
+277,Daniela González,29,Adulto Joven,Concepción,Estándar,132.0,2025-01-09,Moda,4813,4813,38438.98,0.1252
+278,Mateo González,30,Adulto Joven,Santiago,Estándar,34.0,2025-04-23,Moda,3621,3621,39029.96,0.0928
+279,Camila Pérez,18,Joven,Valparaíso,Premium,158.0,2025-05-09,Electrónica,7198,7198,39133.92,0.1839
+280,Ana Silva,38,Adulto Joven,Desconocido,Estándar,134.0,2025-07-29,Moda,3887,3887,39189.14,0.0992
+281,Camila González,45,Adulto,Santiago,Premium,1387.0,2025-03-20,Electrónica,6787,6787,38839.06,0.1747
+282,Daniela Pérez,34,Adulto Joven,Santiago,Estándar,1434.0,2025-08-20,Hogar,2690,2690,39258.06,0.0685
+283,Ana González,27,Adulto Joven,Desconocido,Estándar,79.0,2025-09-16,Moda,4265,4265,39485.65,0.108
+284,Ignacio Pérez,21,Joven,Concepción,Estándar,437.0,2025-05-06,Hogar,6631,6631,39114.4,0.1695
+285,Benjamín Pérez,23,Joven,Santiago,Estándar,116.0,2025-10-06,Moda,4360,4360,39485.65,0.1104
+286,Sofía González,35,Adulto Joven,Antofagasta,Estándar,288.0,2025-03-04,Electrónica,2863,2863,38708.39,0.074
+287,Camila Pérez,18,Joven,Antofagasta,Estándar,708.0,2025-08-31,Hogar,4351,4351,39383.07,0.1105
+288,Benjamín Silva,42,Adulto,Valparaíso,Estándar,129.0,2025-11-23,Otros,5327,5327,39643.59,0.1344
+289,Camila Silva,44,Adulto,Concepción,Estándar,535.0,2025-03-11,Otros,4995,4995,38794.07,0.1288
+290,Ana González,31,Adulto Joven,Santiago,Estándar,228.0,2025-01-24,Hogar,2373,2373,38401.76,0.0618
+291,Lucas Muñoz,18,Joven,Santiago,Estándar,266.0,2025-11-12,Electrónica,5188,5188,39643.59,0.1309
+292,Lucas Muñoz,23,Joven,Concepción,Premium,1161.0,2025-11-04,Electrónica,6746,6746,39618.08,0.1703
+293,Ana Díaz,49,Adulto,Santiago,Estándar,242.0,2025-04-28,Electrónica,4652,4652,39062.41,0.1191
+294,Camila Muñoz,18,Joven,Concepción,Estándar,260.0,2025-01-03,Deportes,3535,3535,38424.12,0.092
+295,Sofía Soto,30,Adulto Joven,Antofagasta,Estándar,786.0,2025-11-04,Hogar,3554,3554,39618.08,0.0897
+296,Lucas Soto,20,Joven,Santiago,Estándar,270.0,2025-01-09,Deportes,3220,3220,38438.98,0.0838
+297,Lucas Soto,44,Adulto,Concepción,Estándar,688.0,2025-06-02,Moda,3392,3392,39194.5,0.0865
+298,Lucas Muñoz,26,Adulto Joven,Santiago,Estándar,520.0,2025-01-02,Moda,3477,3477,38421.65,0.0905
+299,Ignacio González,39,Adulto Joven,Antofagasta,Estándar,455.0,2025-03-01,Moda,4035,4035,38663.05,0.1044
+300,Daniela Silva,41,Adulto,Santiago,Premium,394.0,2025-09-29,Deportes,9117,9117,39485.65,0.2309
+301,Camila Rojas,57,Adulto,Concepción,Estándar,967.0,2025-09-23,Hogar,5469,5469,39485.65,0.1385
+302,Ana Pérez,32,Adulto Joven,Concepción,Estándar,137.0,2025-06-08,Deportes,6431,6431,39209.66,0.164
+303,Benjamín Silva,39,Adulto Joven,Santiago,Premium,625.0,2025-01-28,Hogar,8657,8657,38391.84,0.2255
+304,Ignacio González,34,Adulto Joven,Concepción,Premium,193.0,2025-09-07,Deportes,7272,7272,39462.83,0.1843
+305,Ignacio González,49,Adulto,La Serena,Estándar,1758.0,2025-06-07,Moda,4714,4714,39207.13,0.1202
+306,Sofía González,25,Joven,Concepción,Estándar,896.0,2025-06-11,Moda,4699,4699,39217.41,0.1198
+307,Sofía Muñoz,28,Adulto Joven,La Serena,Estándar,269.0,2025-11-04,Deportes,3639,3639,39618.08,0.0919
+308,Ana González,34,Adulto Joven,Desconocido,Premium,323.0,2025-08-20,Electrónica,10632,10632,39258.06,0.2708
+309,Sofía Soto,18,Joven,Valparaíso,Estándar,601.0,2025-02-17,Moda,4294,4294,38482.2,0.1116
+310,Benjamín Pérez,37,Adulto Joven,Valparaíso,Estándar,1397.0,2025-07-10,Hogar,5915,5915,39285.53,0.1506
+311,Benjamín Silva,46,Adulto,Santiago,Estándar,343.0,2025-06-08,Deportes,3704,3704,39209.66,0.0945
+312,Camila Soto,34,Adulto Joven,La Serena,Estándar,825.0,2025-05-13,Moda,3337,3337,39144.01,0.0852
+313,Camila Silva,18,Joven,Valparaíso,Estándar,,,Sin Actividad,0,0,,
+314,Daniela Muñoz,33,Adulto Joven,Valparaíso,Estándar,240.0,2025-02-10,Otros,5358,5358,38377.09,0.1396
+315,Mateo Rojas,43,Adulto,Santiago,Estándar,85.0,2025-10-31,Moda,5625,5625,39597.67,0.1421
+316,Daniela Soto,34,Adulto Joven,Antofagasta,Estándar,40.0,2025-07-12,Electrónica,5178,5178,39275.37,0.1318
+317,Ignacio Muñoz,22,Joven,Santiago,Estándar,458.0,2025-01-23,Hogar,2530,2530,38404.24,0.0659
+318,Camila González,45,Adulto,Concepción,Premium,130.0,2025-08-26,Moda,7526,7526,39326.2,0.1914
+319,Sofía Pérez,38,Adulto Joven,Santiago,Premium,99.0,2025-03-28,Moda,15680,10756,38879.09,0.2767
+320,Ignacio Soto,39,Adulto Joven,Desconocido,Premium,616.0,2025-04-26,Moda,12411,10756,39049.43,0.2754
+321,Lucas Silva,57,Adulto,Santiago,Estándar,1068.0,2025-04-13,Moda,5872,5872,38965.12,0.1507
+322,Camila Silva,40,Adulto Joven,Santiago,Estándar,26.0,2025-07-03,Electrónica,5353,5353,39274.92,0.1363
+323,Benjamín González,42,Adulto,Antofagasta,Estándar,1715.0,2025-04-06,Deportes,5281,5281,38924.18,0.1357
+324,Benjamín Soto,67,Mayor,Antofagasta,Estándar,984.0,2025-03-04,Electrónica,4258,4258,38708.39,0.11
+325,Ignacio Soto,34,Adulto Joven,Santiago,Estándar,244.0,2025-11-06,Electrónica,4587,4587,39628.28,0.1158
+326,Camila Pérez,25,Joven,Valparaíso,Premium,502.0,2025-11-11,Electrónica,7447,7447,39643.59,0.1878
+327,Ignacio Soto,34,Adulto Joven,La Serena,Estándar,652.0,2025-02-12,Otros,3361,3361,38407.09,0.0875
+328,Ignacio Soto,40,Adulto Joven,Antofagasta,Premium,3.0,2025-07-30,Moda,32000,10756,39184.08,0.2745
+329,Sofía Díaz,28,Adulto Joven,Santiago,Estándar,730.0,2025-07-07,Hogar,2759,2759,39285.38,0.0702
+330,Sofía González,22,Joven,Valparaíso,Estándar,316.0,2025-12-15,Deportes,5906,5906,39666.58,0.1489
+331,Benjamín Díaz,62,Mayor,La Serena,Estándar,156.0,2025-06-28,Deportes,5845,5845,39261.84,0.1489
+332,Ana Muñoz,38,Adulto Joven,La Serena,Estándar,237.0,2025-09-19,Electrónica,3445,3445,39485.65,0.0872
+333,Camila González,26,Adulto Joven,La Serena,Estándar,108.0,2025-10-28,Deportes,5576,5576,39582.38,0.1409
+334,Mateo González,45,Adulto,Concepción,Estándar,,,Sin Actividad,0,0,,
+335,Ignacio Pérez,33,Adulto Joven,Santiago,Estándar,80.0,2025-11-02,Deportes,5232,5232,39607.87,0.1321
+336,Ignacio Díaz,31,Adulto Joven,Antofagasta,Estándar,283.0,2025-08-25,Deportes,4822,4822,39314.84,0.1227
+337,Sofía Díaz,41,Adulto,Antofagasta,Estándar,312.0,2025-11-22,Hogar,6377,6377,39643.59,0.1609
+338,Ignacio Soto,19,Joven,La Serena,Estándar,1071.0,2025-07-21,Moda,5026,5026,39229.7,0.1281
+339,Ana Díaz,39,Adulto Joven,Santiago,Estándar,49.0,2025-03-28,Moda,5529,5529,38879.09,0.1422
+340,Lucas Pérez,57,Adulto,Santiago,Estándar,711.0,2025-11-22,Deportes,5243,5243,39643.59,0.1323
+341,Daniela González,40,Adulto Joven,La Serena,Premium,550.0,2025-11-01,Hogar,8137,8137,39602.77,0.2055
+342,Ignacio Soto,30,Adulto Joven,Santiago,Premium,60.0,2025-07-28,Deportes,9445,9445,39194.21,0.241
+343,Sofía Díaz,34,Adulto Joven,Desconocido,Estándar,636.0,2025-12-06,Otros,3582,3582,39643.59,0.0904
+344,Ignacio Muñoz,30,Adulto Joven,Santiago,Estándar,75.0,2025-04-16,Hogar,4129,4129,38984.56,0.1059
+345,Ana Soto,31,Adulto Joven,La Serena,Estándar,587.0,2025-08-08,Electrónica,5885,5885,39138.51,0.1504
+346,Benjamín Soto,30,Adulto Joven,Antofagasta,Estándar,941.0,2025-04-10,Electrónica,3081,3081,38945.69,0.0791
+347,Mateo González,45,Adulto,Santiago,Estándar,1614.0,2025-11-20,Moda,6084,6084,39643.59,0.1535
+348,Camila Muñoz,18,Joven,Santiago,Estándar,422.0,2025-03-26,Deportes,6117,6117,38869.08,0.1574
+349,Ana González,45,Adulto,Concepción,Estándar,8.0,2025-10-23,Hogar,4486,4486,39556.9,0.1134
+350,Daniela Muñoz,30,Adulto Joven,Concepción,Estándar,204.0,2025-08-20,Electrónica,6556,6556,39258.06,0.167
+351,Camila González,39,Adulto Joven,Valparaíso,Estándar,43.0,2025-03-30,Deportes,4820,4820,38889.1,0.1239
+352,Lucas Pérez,21,Joven,Concepción,Estándar,982.0,2025-11-24,Electrónica,2466,2466,39643.59,0.0622
+353,Mateo Díaz,50,Adulto,Antofagasta,Estándar,110.0,2025-09-08,Moda,4418,4418,39474.24,0.1119
+354,Camila Silva,49,Adulto,Valparaíso,Estándar,1041.0,2025-07-31,Hogar,3679,3679,39179.01,0.0939
+355,Ignacio Soto,46,Adulto,Santiago,Premium,541.0,2025-09-05,Deportes,12105,10756,39440.03,0.2727
+356,Ana Pérez,18,Joven,Santiago,Estándar,1077.0,2025-11-07,Electrónica,6285,6285,39633.38,0.1586
+357,Lucas Díaz,44,Adulto,Santiago,Estándar,1197.0,2025-09-28,Moda,3475,3475,39485.65,0.088
+358,Lucas González,39,Adulto Joven,Santiago,Estándar,430.0,2025-09-12,Deportes,6573,6573,39485.65,0.1665
+359,Mateo González,18,Joven,Santiago,Premium,15.0,2025-05-03,Moda,6876,6876,39094.9,0.1759
+360,Camila Pérez,34,Adulto Joven,Concepción,Premium,236.0,2025-03-15,Deportes,6685,6685,38814.06,0.1722
+361,Ana González,39,Adulto Joven,Santiago,Estándar,225.0,2025-07-29,Deportes,4306,4306,39189.14,0.1099
+362,Ignacio González,41,Adulto,Desconocido,Estándar,174.0,2025-03-24,Hogar,5920,5920,38859.07,0.1523
+363,Ignacio Muñoz,37,Adulto Joven,Santiago,Estándar,676.0,2025-05-22,Electrónica,5183,5183,39166.72,0.1323
+364,Sofía Silva,38,Adulto Joven,Santiago,Estándar,318.0,2025-07-16,Moda,6436,6436,39255.07,0.164
+365,Ana Díaz,52,Adulto,La Serena,Estándar,731.0,2025-01-14,Moda,5290,5290,38426.57,0.1377
+366,Ana Pérez,49,Adulto,Antofagasta,Estándar,317.0,2025-11-15,Electrónica,3232,3232,39643.59,0.0815
+367,Ana Rojas,18,Joven,Santiago,Estándar,1009.0,2025-05-10,Moda,3724,3724,39136.44,0.0952
+368,Daniela Muñoz,31,Adulto Joven,Santiago,Estándar,13.0,2025-10-23,Moda,4825,4825,39556.9,0.122
+369,Ignacio Rojas,33,Adulto Joven,Santiago,Estándar,215.0,2025-11-05,Deportes,3907,3907,39623.18,0.0986
+370,Sofía González,18,Joven,Valparaíso,Estándar,432.0,2025-06-16,Moda,2627,2627,39230.48,0.067
+371,Lucas Soto,36,Adulto Joven,Valparaíso,Estándar,1722.0,2025-05-26,Deportes,3288,3288,39176.82,0.0839
+372,Sofía Muñoz,49,Adulto,Santiago,Estándar,59.0,2025-07-31,Moda,4979,4979,39179.01,0.1271
+373,Camila Rojas,34,Adulto Joven,Santiago,Estándar,62.0,2025-06-02,Hogar,4944,4944,39194.5,0.1261
+374,Benjamín Silva,39,Adulto Joven,Valparaíso,Estándar,378.0,2025-10-29,Electrónica,5549,5549,39587.48,0.1402
+375,Lucas Pérez,24,Joven,Desconocido,Estándar,360.0,2025-10-04,Deportes,6097,6097,39485.65,0.1544
+376,Daniela Díaz,34,Adulto Joven,Concepción,Estándar,1378.0,2025-05-26,Otros,2351,2351,39176.82,0.06
+377,Ana Díaz,52,Adulto,Valparaíso,Estándar,493.0,2025-01-25,Electrónica,4162,4162,38399.28,0.1084
+378,Sofía Soto,28,Adulto Joven,Santiago,Estándar,1098.0,2025-08-28,Deportes,3483,3483,39348.94,0.0885
+379,Camila Muñoz,40,Adulto Joven,Santiago,Estándar,247.0,2025-05-29,Hogar,4658,4658,39184.4,0.1189
+380,Camila Pérez,18,Joven,Santiago,Estándar,42.0,2025-02-07,Electrónica,5646,5646,38367.06,0.1472
+381,Ignacio Silva,57,Adulto,La Serena,Estándar,14.0,2025-01-28,Electrónica,4209,4209,38391.84,0.1096
+382,Daniela Pérez,42,Adulto,Antofagasta,Estándar,714.0,2025-06-17,Deportes,4960,4960,39233.09,0.1264
+383,Camila Díaz,32,Adulto Joven,Antofagasta,Estándar,128.0,2025-05-11,Moda,3151,3151,39138.96,0.0805
+384,Ignacio Muñoz,34,Adulto Joven,Desconocido,Estándar,89.0,2025-08-31,Deportes,3684,3684,39383.07,0.0935
+385,Mateo Muñoz,18,Joven,Desconocido,Estándar,320.0,2025-03-20,Electrónica,5260,5260,38839.06,0.1354
+386,Benjamín Silva,49,Adulto,Desconocido,Estándar,173.0,2025-01-02,Electrónica,4054,4054,38421.65,0.1055
+387,Mateo Díaz,31,Adulto Joven,Santiago,Premium,2.0,2025-11-24,Otros,28000,10756,39643.59,0.2713
+388,Sofía Rojas,32,Adulto Joven,Santiago,Premium,734.0,2025-10-02,Deportes,8365,8365,39485.65,0.2118
+389,Ignacio Rojas,29,Adulto Joven,Santiago,Estándar,402.0,2025-06-01,Deportes,5309,5309,39191.97,0.1355
+390,Ana Pérez,28,Adulto Joven,Concepción,Estándar,50.0,2025-04-29,Moda,2850,2850,39068.91,0.0729
+391,Sofía Díaz,43,Adulto,Santiago,Estándar,25.0,2025-11-20,Electrónica,6079,6079,39643.59,0.1533
+392,Sofía Pérez,38,Adulto Joven,Antofagasta,Estándar,160.0,2025-08-21,Moda,6081,6081,39269.41,0.1549
+393,Camila Muñoz,42,Adulto,Concepción,Estándar,476.0,2025-07-21,Moda,2719,2719,39229.7,0.0693
+394,Sofía Pérez,34,Adulto Joven,Valparaíso,Estándar,16.0,2025-08-26,Electrónica,4549,4549,39326.2,0.1157
+395,Ana Díaz,41,Adulto,Santiago,Estándar,213.0,2025-05-18,Deportes,2523,2523,39156.63,0.0644
+396,Lucas Silva,34,Adulto Joven,Santiago,Estándar,1414.0,2025-11-13,Electrónica,5644,5644,39643.59,0.1424
+397,Ignacio Muñoz,61,Mayor,Santiago,Estándar,261.0,2025-12-07,Moda,5027,5027,39643.59,0.1268
+398,Ana Muñoz,18,Joven,Antofagasta,Estándar,71.0,2025-10-10,Moda,2775,2775,39490.74,0.0703
+399,Camila Díaz,50,Adulto,Concepción,Estándar,105.0,2025-02-14,Moda,3229,3229,38437.12,0.084
+400,Benjamín Díaz,51,Adulto,La Serena,Estándar,716.0,2025-07-07,Hogar,6592,6592,39285.38,0.1678
+401,Ignacio Pérez,24,Joven,Santiago,Estándar,591.0,2025-11-21,Hogar,4114,4114,39643.59,0.1038
+402,Lucas Rojas,61,Mayor,Santiago,Premium,551.0,2025-05-01,Hogar,7222,7222,39081.9,0.1848
+403,Daniela Silva,46,Adulto,Valparaíso,Estándar,92.0,2025-08-24,Hogar,6511,6511,39303.48,0.1657
+404,Benjamín Díaz,46,Adulto,La Serena,Estándar,291.0,2025-07-31,Deportes,3900,3900,39179.01,0.0995
+405,Mateo González,35,Adulto Joven,La Serena,Estándar,227.0,2025-02-12,Electrónica,5491,5491,38407.09,0.143
+406,Sofía González,32,Adulto Joven,Santiago,Estándar,,,Sin Actividad,0,0,,
+407,Daniela Silva,32,Adulto Joven,Desconocido,Estándar,885.0,2025-08-13,Hogar,5153,5153,39178.72,0.1315
+408,Daniela González,39,Adulto Joven,Santiago,Estándar,166.0,2025-01-27,Moda,6243,6243,38394.32,0.1626
+409,Ana Silva,51,Adulto,Antofagasta,Estándar,514.0,2025-03-27,Hogar,6515,6515,38874.08,0.1676
+410,Lucas Muñoz,37,Adulto Joven,Santiago,Estándar,849.0,2025-09-09,Moda,3375,3375,39485.65,0.0855
+411,Ana González,34,Adulto Joven,Santiago,Premium,149.0,2025-02-23,Deportes,6808,6808,38572.51,0.1765
+412,Lucas Rojas,44,Adulto,Antofagasta,Estándar,28.0,2025-01-18,Moda,5062,5062,38416.64,0.1318
+413,Daniela Pérez,34,Adulto Joven,Santiago,Estándar,433.0,2025-10-20,Moda,6532,6532,39541.62,0.1652
+414,Sofía Rojas,42,Adulto,Valparaíso,Estándar,38.0,2025-12-01,Moda,5485,5485,39643.59,0.1384
+415,Mateo Soto,43,Adulto,Valparaíso,Premium,334.0,2025-03-03,Hogar,7373,7373,38693.27,0.1905
+416,Ana Pérez,31,Adulto Joven,Santiago,Estándar,388.0,2025-01-09,Deportes,2197,2197,38438.98,0.0572
+417,Benjamín Rojas,23,Joven,La Serena,Estándar,84.0,2025-04-27,Hogar,3360,3360,39055.92,0.086
+418,Ignacio Pérez,24,Joven,Antofagasta,Estándar,1097.0,2025-10-16,Deportes,3440,3440,39521.26,0.087
+419,Ana Silva,18,Joven,Antofagasta,Premium,589.0,2025-01-11,Moda,6851,6851,38434.02,0.1783
+420,Mateo Rojas,37,Adulto Joven,Santiago,Premium,19.0,2025-04-08,Moda,9855,9855,38934.2,0.2531
+421,Ignacio Muñoz,33,Adulto Joven,Valparaíso,Estándar,93.0,2025-03-10,Moda,6101,6101,38789.07,0.1573
+422,Camila Rojas,29,Adulto Joven,Santiago,Estándar,590.0,2025-08-17,Electrónica,4909,4909,39224.04,0.1252
+423,Sofía Soto,18,Joven,Santiago,Estándar,361.0,2025-05-03,Electrónica,5789,5789,39094.9,0.1481
+424,Mateo Muñoz,20,Joven,Santiago,Premium,477.0,2025-06-17,Moda,7541,7541,39233.09,0.1922
+425,Benjamín Silva,48,Adulto,Desconocido,Estándar,297.0,2025-10-18,Otros,4833,4833,39531.44,0.1223
+426,Lucas Pérez,27,Adulto Joven,Antofagasta,Estándar,560.0,2025-05-24,Electrónica,5253,5253,39171.77,0.1341
+427,Camila Pérez,39,Adulto Joven,La Serena,Estándar,146.0,2025-07-14,Hogar,5540,5540,39265.22,0.1411
+428,Ignacio Rojas,34,Adulto Joven,Valparaíso,Estándar,125.0,2025-03-30,Hogar,3467,3467,38889.1,0.0892
+429,Benjamín Silva,52,Adulto,Valparaíso,Estándar,232.0,2025-11-21,Electrónica,4762,4762,39643.59,0.1201
+430,Camila González,33,Adulto Joven,Valparaíso,Estándar,6.0,2025-10-31,Deportes,5339,5339,39597.67,0.1348
+431,Ignacio Rojas,38,Adulto Joven,Valparaíso,Premium,668.0,2025-01-13,Hogar,9247,9247,38429.05,0.2406
+432,Ignacio Rojas,62,Mayor,Valparaíso,Premium,829.0,2025-05-11,Moda,7658,7658,39138.96,0.1957
+433,Mateo Díaz,53,Adulto,Santiago,Premium,427.0,2025-10-21,Moda,6859,6859,39546.71,0.1734
+434,Ana Díaz,34,Adulto Joven,Santiago,Estándar,492.0,2025-09-14,Electrónica,4301,4301,39485.65,0.1089
+435,Benjamín Muñoz,27,Adulto Joven,Desconocido,Estándar,1023.0,2025-08-02,Hogar,4756,4756,39168.88,0.1214
+436,Benjamín Muñoz,31,Adulto Joven,Valparaíso,Estándar,,,Sin Actividad,0,0,,
+437,Sofía González,41,Adulto,Desconocido,Estándar,921.0,2025-08-24,Moda,2038,2038,39303.48,0.0519
+438,Lucas Pérez,34,Adulto Joven,Santiago,Estándar,396.0,2025-05-01,Electrónica,6488,6488,39081.9,0.166
+439,Daniela Rojas,30,Adulto Joven,Concepción,Estándar,781.0,2025-08-29,Deportes,4255,4255,39360.32,0.1081
+440,Ana Díaz,52,Adulto,Santiago,Estándar,812.0,2025-09-07,Moda,2413,2413,39462.83,0.0611
+441,Lucas Pérez,33,Adulto Joven,Santiago,Estándar,517.0,2025-04-18,Moda,4204,4204,38997.53,0.1078
+442,Sofía Pérez,62,Mayor,Santiago,Premium,1815.0,2025-08-04,Moda,6750,6750,39158.75,0.1724
+443,Lucas Díaz,36,Adulto Joven,Santiago,Estándar,904.0,2025-05-14,Hogar,4364,4364,39146.53,0.1115
+444,Mateo Pérez,56,Adulto,Antofagasta,Estándar,35.0,2025-01-05,Hogar,2901,2901,38429.08,0.0755
+445,Ana Pérez,39,Adulto Joven,Santiago,Estándar,565.0,2025-07-15,Moda,2521,2521,39260.14,0.0642
+446,Ignacio Pérez,46,Adulto,Concepción,Premium,358.0,2025-09-30,Deportes,8644,8644,39485.65,0.2189
+447,Sofía Pérez,26,Adulto Joven,Valparaíso,Estándar,48.0,2025-06-13,Moda,5947,5947,39222.64,0.1516
+448,Benjamín Rojas,24,Joven,Valparaíso,Estándar,1304.0,2025-09-11,Moda,3521,3521,39485.65,0.0892
+449,Sofía Muñoz,40,Adulto Joven,Valparaíso,Premium,304.0,2025-02-12,Moda,7715,7715,38407.09,0.2009
+450,Ignacio Soto,46,Adulto,Santiago,Estándar,95.0,2025-10-20,Hogar,3190,3190,39541.62,0.0807
+451,Lucas Rojas,35,Adulto Joven,Desconocido,Estándar,179.0,2025-05-11,Electrónica,5692,5692,39138.96,0.1454
+452,Daniela Díaz,19,Joven,La Serena,Estándar,220.0,2025-10-09,Deportes,5717,5717,39485.65,0.1448
+453,Mateo Muñoz,18,Joven,La Serena,Estándar,67.0,2025-04-06,Hogar,3645,3645,38924.18,0.0936
+454,Mateo Díaz,18,Joven,Valparaíso,Premium,1108.0,2025-08-09,Hogar,13439,10756,39133.45,0.2749
+455,Lucas Díaz,18,Joven,Santiago,Estándar,202.0,2025-12-13,Hogar,5711,5711,39658.92,0.144
+456,Daniela Pérez,36,Adulto Joven,Antofagasta,Premium,840.0,2025-01-10,Hogar,7764,7764,38436.5,0.202
+457,Daniela Díaz,48,Adulto,Santiago,Estándar,943.0,2025-03-24,Deportes,5159,5159,38859.07,0.1328
+458,Ana Rojas,34,Adulto Joven,Santiago,Estándar,529.0,2025-11-15,Electrónica,4928,4928,39643.59,0.1243
+459,Lucas Silva,18,Joven,Santiago,Estándar,153.0,2025-02-20,Deportes,3288,3288,38527.33,0.0853
+460,Ana Díaz,32,Adulto Joven,La Serena,Estándar,669.0,2025-11-19,Moda,5441,5441,39643.59,0.1372
+461,Camila Soto,33,Adulto Joven,Concepción,Estándar,530.0,2025-05-28,Moda,4803,4803,39181.87,0.1226
+462,Daniela Soto,60,Adulto,La Serena,Estándar,61.0,2025-02-06,Moda,5328,5328,38369.54,0.1389
+463,Camila Díaz,18,Joven,La Serena,Estándar,264.0,2025-06-18,Hogar,3856,3856,39235.7,0.0983
+464,Daniela Silva,30,Adulto Joven,Santiago,Premium,24.0,2025-05-20,Hogar,9388,9388,39161.67,0.2397
+465,Mateo González,55,Adulto,Antofagasta,Estándar,,,Sin Actividad,0,0,,
+466,Sofía Silva,40,Adulto Joven,Valparaíso,Estándar,693.0,2025-02-01,Hogar,4071,4071,38381.93,0.1061
+467,Camila Soto,41,Adulto,Concepción,Estándar,470.0,2025-10-02,Deportes,5206,5206,39485.65,0.1318
+468,Benjamín Díaz,36,Adulto Joven,Santiago,Estándar,409.0,2025-07-07,Moda,6059,6059,39285.38,0.1542
+469,Daniela Soto,38,Adulto Joven,Desconocido,Premium,286.0,2025-02-28,Deportes,8175,8175,38647.94,0.2115
+470,Benjamín Díaz,44,Adulto,Santiago,Estándar,181.0,2025-04-15,Hogar,4344,4344,38978.08,0.1114
+471,Ignacio Muñoz,25,Joven,Santiago,Premium,81.0,2025-03-02,Deportes,6713,6713,38678.15,0.1736
+472,Daniela Soto,34,Adulto Joven,Valparaíso,Estándar,1681.0,2025-04-12,Hogar,2983,2983,38958.65,0.0766
+473,Daniela Muñoz,18,Joven,Santiago,Estándar,,,Sin Actividad,0,0,,
+474,Benjamín Rojas,38,Adulto Joven,Santiago,Premium,383.0,2025-01-29,Deportes,6981,6981,38389.36,0.1818
+475,Camila Díaz,37,Adulto Joven,Concepción,Estándar,571.0,2025-03-11,Moda,6569,6569,38794.07,0.1693
+476,Mateo Soto,27,Adulto Joven,Santiago,Estándar,776.0,2025-09-01,Hogar,3131,3131,39394.46,0.0795
+477,Ana Rojas,34,Adulto Joven,Antofagasta,Estándar,293.0,2025-09-24,Electrónica,3712,3712,39485.65,0.094
+478,Camila Díaz,27,Adulto Joven,Santiago,Estándar,448.0,2025-05-04,Moda,5595,5595,39101.4,0.1431
+479,Ignacio González,22,Joven,La Serena,Estándar,,,Sin Actividad,0,0,,
+480,Mateo González,30,Adulto Joven,Valparaíso,Estándar,195.0,2025-04-30,Moda,5261,5261,39075.41,0.1346
+481,Ana González,21,Joven,Concepción,Estándar,200.0,2025-10-18,Electrónica,5469,5469,39531.44,0.1383
+482,Lucas González,38,Adulto Joven,Concepción,Premium,337.0,2025-07-10,Deportes,7893,7893,39285.53,0.2009
+483,Ignacio Silva,21,Joven,Valparaíso,Estándar,,,Sin Actividad,0,0,,
+484,Daniela Soto,43,Adulto,Desconocido,Estándar,64.0,2025-04-08,Deportes,6310,6310,38934.2,0.1621
+485,Camila Soto,20,Joven,Santiago,Premium,208.0,2025-02-26,Electrónica,8414,8414,38617.75,0.2179
+486,Mateo González,34,Adulto Joven,Santiago,Estándar,46.0,2025-01-03,Hogar,4173,4173,38424.12,0.1086
+487,Benjamín González,27,Adulto Joven,Concepción,Estándar,441.0,2025-08-11,Moda,3144,3144,39156.08,0.0803
+488,Sofía Muñoz,50,Adulto,Antofagasta,Estándar,12.0,2025-07-31,Otros,5500,5500,39179.01,0.1404
+489,Camila Díaz,38,Adulto Joven,Santiago,Estándar,1250.0,2025-07-31,Hogar,5935,5935,39179.01,0.1515
+490,Sofía Rojas,34,Adulto Joven,Valparaíso,Estándar,594.0,2025-11-12,Moda,2497,2497,39643.59,0.063
+491,Ignacio Díaz,40,Adulto Joven,Antofagasta,Estándar,851.0,2025-10-08,Deportes,5222,5222,39485.65,0.1323
+492,Lucas Muñoz,18,Joven,La Serena,Premium,141.0,2025-04-15,Moda,6843,6843,38978.08,0.1756
+493,Daniela Soto,34,Adulto Joven,Desconocido,Estándar,555.0,2025-01-07,Moda,4421,4421,38434.03,0.115
+494,Daniela Rojas,58,Adulto,Valparaíso,Estándar,772.0,2025-12-01,Moda,3481,3481,39643.59,0.0878
+495,Ignacio González,36,Adulto Joven,Concepción,Estándar,265.0,2025-11-09,Deportes,2759,2759,39643.59,0.0696
+496,Ana Soto,35,Adulto Joven,Santiago,Estándar,347.0,2025-08-23,Hogar,3502,3502,39292.12,0.0891
+497,Ignacio Silva,41,Adulto,Desconocido,Premium,145.0,2025-08-11,Deportes,9270,9270,39156.08,0.2367
+498,Ana González,45,Adulto,Santiago,Estándar,511.0,2025-10-07,Moda,3668,3668,39485.65,0.0929
+499,Mateo Díaz,18,Joven,La Serena,Estándar,161.0,2025-03-08,Hogar,4507,4507,38768.93,0.1163
+500,Benjamín Soto,18,Joven,Valparaíso,Estándar,401.0,2025-12-13,Electrónica,2085,2085,39658.92,0.0526
